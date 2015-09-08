@@ -29,7 +29,7 @@ This is only a part of the many cows that popped up to become one of the early m
 
 ## License
 
-This work is licensed under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+This work is licensed under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
 
 ## Donate
 
