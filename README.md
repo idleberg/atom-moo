@@ -29,7 +29,7 @@ This is only a part of the many cows that popped up to become one of the early m
 
 ## Usage
 
-All snippets are triggered using the `moo`-prefix, followed by the caption of the original ASCII cow files. For reference, these are included in the `src` folder.
+All snippets are triggered using the `moo`-prefix, followed by the caption from the original ASCII cow [text files](https://github.com/idleberg/atom-moo/tree/master/src).
 
 ## License
 
