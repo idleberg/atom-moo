@@ -7,6 +7,13 @@
 
 Make your life more cow-plete with these fun [ASCII cow](https://web.archive.org/web/20010817055008/http://www.geocities.com/spunk1111/cows.htm) snippets for Atom. Moo!
 
+             (__)  (__)         
+             (oo)  (oo)         
+      /-------\/    \/-------\  
+     / |     ||      ||     | \ 
+    *  ||----||      ||----||  \
+       ^^    ^^      ^^    ^^   
+
 This is only a part of the many cows that popped up to become one of the early memes of the internet — at a time when hardly anyone knew about the internet: in 1989. If you want to find out more about ASCII cows, read about [The Birth of the Cows](http://www.clasohm.com/cows/guide5.html).
 
 ## Installation
