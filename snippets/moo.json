@@ -1,0 +1,2136 @@
+{
+  ".source, .text": {
+    "Cow": {
+      "prefix": "moo::Cow",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Cow laden with milk": {
+      "prefix": "moo::Cow laden with milk",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||W---||  \n   ^^    ^^  \n"
+    },
+    "Same cow after milking": {
+      "prefix": "moo::Same cow after milking",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||w---||  \n   ^^    ^^  \n"
+    },
+    "Nancy Reagan-type cow with milk": {
+      "prefix": "moo::Nancy Reagan-type cow with milk",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||V---||  \n   ^^    ^^  \n"
+    },
+    "Bull": {
+      "prefix": "moo::Bull",
+      "body": "\n         (___)\n         (o o)\n  /-------\\\\ / \n / |     ||O  \n*  ||,---||   \n   ^^    ^^   \n"
+    },
+    "Same bull after seeing above cow": {
+      "prefix": "moo::Same bull after seeing above cow",
+      "body": "\n         (___)\n         (o o)\n  /-------\\\\ / \n / |     ||O  \n*  ||@\\\\--||   \n   ^^    ^^   \n"
+    },
+    "Rotc bull after seeing other bull": {
+      "prefix": "moo::Rotc bull after seeing other bull",
+      "body": "\n*        (___)\n \\\\       (o o)\n  \\\\-------\\\\ / \n   |     ||O  \n   ||,---||   \n   ^^    ^^   \n"
+    },
+    "Red-blooded American Bull shooting the Rotc bull": {
+      "prefix": "moo::Red-blooded American Bull shooting the Rotc bull",
+      "body": "\n         (___)\n         (o o)\n  /-------\\\\ / \n / | ~#>-+|O  \n*  ||,----|   \n   ^^     ^   \n"
+    },
+    "Cow munching on grass": {
+      "prefix": "moo::Cow munching on grass",
+      "body": "\n         (__) \n         (oo) \n  /-------\\\\/-*\n / |     || \\\\ \n*  ||----||  *\n\\\\/|(/)(/\\\\/(,,/\n"
+    },
+    "Grass munching on cow": {
+      "prefix": "moo::Grass munching on cow",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n )*)(\\\\/* /  *\n\\\\ |||/)|/()( \n\\\\)|(/\\\\/|)(/\\\\ \n"
+    },
+    "Cow in water": {
+      "prefix": "moo::Cow in water",
+      "body": "\n          (__) \n          (oo) \n   /-------\\\\/  \n  / |     ||   \n~~~~~~~~~~~~~~ \n               \n"
+    },
+    "Cow in trouble (water)": {
+      "prefix": "moo::Cow in trouble (water)",
+      "body": "\n           (__)      \n           (oo)      \n~~~~~~~~~~~~~~~~~~~~~\n                     \n                     \n                     \n"
+    },
+    "Cow at 1 meter": {
+      "prefix": "moo::Cow at 1 meter",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Cow at 100 meters": {
+      "prefix": "moo::Cow at 100 meters",
+      "body": "\n                    \n                 U  \n            /---V   \n           * |--|   \n                    \n                    \n"
+    },
+    "Cow at 10,000 meters": {
+      "prefix": "moo::Cow at 10,000 meters",
+      "body": "\n              \n              \n              \n              \n            . \n              \n              \n"
+    },
+    "American Cow": {
+      "prefix": "moo::American Cow",
+      "body": "\n          (__)\n          (oo)\n   /-------\\\\/ \n  / |     ||  \n *  ||----||  \n    ^^    ^^  \n"
+    },
+    "Polish Cow": {
+      "prefix": "moo::Polish Cow",
+      "body": "\n         )__(\n         (oo)\n  *-------\\\\/ \n / |     ||  \n/  ||----||  \n   vv    vv  \n"
+    },
+    "Australian Cow": {
+      "prefix": "moo::Australian Cow",
+      "body": "\n  vv    vv   \n  ||----||  *\n  ||     | / \n /\\\\-------/  \n(oo)         \n(~~)         \n"
+    },
+    "Freshman Cow at start of school": {
+      "prefix": "moo::Freshman Cow at start of school",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Freshman Cow at After the \"Freshman 15\"": {
+      "prefix": "moo::Freshman Cow at After the \"Freshman 15\"",
+      "body": "\n         (__)\n    ____ (oo)\n  /-    --\\\\/ \n / |     ||  \n*  ||___-||  \n   ^^    ^^  \n"
+    },
+    "Freshman Cow at After the \"Freshman 20\"": {
+      "prefix": "moo::Freshman Cow at After the \"Freshman 20\"",
+      "body": "\n         (__)\n    _---_(oo)\n  /-     -\\\\/ \n /|      ||  \n*  ||___-||  \n   ^^    ^^  \n"
+    },
+    "Cow who drank Jolt": {
+      "prefix": "moo::Cow who drank Jolt",
+      "body": "\n         (__)\n         (OO)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Cow who ate psychadelic mushrooms": {
+      "prefix": "moo::Cow who ate psychadelic mushrooms",
+      "body": "\n         (__)\n         (@@)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Cow who used Jolt to wash down psychadelic mushrooms": {
+      "prefix": "moo::Cow who used Jolt to wash down psychadelic mushrooms",
+      "body": "\n         (__)\n         (xx)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "This cow belonged to George Washington": {
+      "prefix": "moo::This cow belonged to George Washington",
+      "body": "\n         (__)\n         SooS\n  /------S\\\\/S\n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Ben Franklin owned this cow": {
+      "prefix": "moo::Ben Franklin owned this cow",
+      "body": "\n                /\\\\  \n               /  \\\\ \n         (__)  \\\\  / \n         (oo)   \\\\/  \n  /-------\\\\/    /S  \n / |     ||    /  S \n*  ||----||___/    S\n   ^^    ^^         \n"
+    },
+    "Abe Lincoln's cow": {
+      "prefix": "moo::Abe Lincoln's cow",
+      "body": "\n          __  \n          ||  \n        (_||_)\n         (oo) \n  /-------\\\\/  \n / |     ||   \n*  ||----||   \n   ^^    ^^   \n"
+    },
+    "Old \"One Arm\" belonged to Caesar's Palace": {
+      "prefix": "moo::Old \"One Arm\" belonged to Caesar's Palace",
+      "body": "\n*        (__)\n \\\\       (oo)\n  \\\\-------\\\\/ \n   | ==\\\\$ ||  \n   ||----||  \n   ^^    ^^  \n"
+    },
+    "This cow is obviously Hugh Hefner's Heifer": {
+      "prefix": "moo::This cow is obviously Hugh Hefner's Heifer",
+      "body": "\n         (__)\n         (oo)\n   /------\\\\/ \n  /|  |/  |  \n / |  [) ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "The cyclops that Jason and the Argonauts met had this cow": {
+      "prefix": "moo::The cyclops that Jason and the Argonauts met had this cow",
+      "body": "\n         (___)\n         ( O )\n  /-------\\\\ / \n / |     ||V  \n*  ||----||   \n   ^^    ^^   \n"
+    },
+    "This cow lived with Dr. Doolittle": {
+      "prefix": "moo::This cow lived with Dr. Doolittle",
+      "body": "\n(__)      (__)\n(oo)      (oo)\n \\\\/--------\\\\/ \n  |        |  \n  ||------||  \n  ^^      ^^  \n"
+    },
+    "This cow belonged to Flash Gordon": {
+      "prefix": "moo::This cow belonged to Flash Gordon",
+      "body": "\n         (__)\n         [##]\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "This cow lived with the Little Rascals": {
+      "prefix": "moo::This cow lived with the Little Rascals",
+      "body": "\n         (__)\n         (@o)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "This cow belonged to the Headless Horseman": {
+      "prefix": "moo::This cow belonged to the Headless Horseman",
+      "body": "\n                \n                \n  /-------  (__)\n / |     || (oo)\n*  ||----|---\\\\/ \n   ^^    ^      \n"
+    },
+    "This cow belonged to Pablo Picasso": {
+      "prefix": "moo::This cow belonged to Pablo Picasso",
+      "body": "\n              (____)\n              (oo  )\n   /-----------\\\\  / \n  / ||       |  \\\\/  \n /  ||       ||||   \n*   ||||-----||||   \n    /\\\\/\\\\     /\\\\/\\\\   \n"
+    },
+    "This was Salvatore Dali's favorite cow": {
+      "prefix": "moo::This was Salvatore Dali's favorite cow",
+      "body": "\n     (____)      \n        (o  o)   \n /-----\\\\    /----\n/ |   |  \\\\/   |  \n\\\\ |  |      | | |\n *| | |-----| | |\n  /\\\\ /\\\\     /\\\\ /\\\\\n"
+    },
+    "No one was sure whether M.C. Escher's cow had four legs or eight": {
+      "prefix": "moo::No one was sure whether M.C. Escher's cow had four legs or eight",
+      "body": "\n              (____)\n              ( O O)\n   /-----------\\\\  / \n  / ||       |  \\\\/  \n /  ||       ||||   \n*   ||||-----||||   \n    ^^^^     ^^^^   \n"
+    },
+    "Twins": {
+      "prefix": "moo::Twins",
+      "body": "\n*        (___)    *        (___)\n \\\\       (o o)     \\\\       (o o)\n  \\\\-------\\\\ /       \\\\-------\\\\ / \n   |     ||O         |     ||O  \n   ||,---||          ||,---||   \n   ^^    ^^          ^^    ^^   \n"
+    },
+    "Cow Catcher": {
+      "prefix": "moo::Cow Catcher",
+      "body": "\n         (__)               \n         (oo)               \n  /-------\\\\/        ________\n / |     ||_|/    O _______ \n*  ||----|  --              \n   ^^    ^                  \n"
+    },
+    "Cownt Dracula Cow": {
+      "prefix": "moo::Cownt Dracula Cow",
+      "body": "\n         (__)\n         (oo)\n  /-------VV \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Francownstein Cow": {
+      "prefix": "moo::Francownstein Cow",
+      "body": "\n             (__)  \n             [@@]  \n           <=|^^|=>\n   /--------- \\\\/   \n  / |       ||     \n /  |       ||     \n *  ||------||     \n    ^^      ^^     \n"
+    },
+    "Where Cow": {
+      "prefix": "moo::Where Cow",
+      "body": "\n      ?  (__)  ? \n     ?   (oo)   ?\n  /-------\\\\/     \n / |     ||      \n*  ||----||      \n   ^^    ^^      \n"
+    },
+    "Cow bird": {
+      "prefix": "moo::Cow bird",
+      "body": "\n         (__)\n     |\\\\/|(oo)\n  /--| \\\\--\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Groucho's cow": {
+      "prefix": "moo::Groucho's cow",
+      "body": "\n         (^^) ( \n         (oo)  )\n  /-------==--- \n / |     ||     \n*  ||----||     \n   ^^    ^^     \n"
+    },
+    "Harpo's cow": {
+      "prefix": "moo::Harpo's cow",
+      "body": "\n         (oo)         \n         (OO)         \n  /------\\\\--/         \n / |     ||           \n*  ||----|\\\\O---< HONK!\n   ^^    ^            \n"
+    },
+    "Karl's cow": {
+      "prefix": "moo::Karl's cow",
+      "body": "\n          (__) \n          (oo) \n  /------||||||\n / | UX`  \\\\||/ \n*  ||----||    \n   ^^    ^^    \n"
+    },
+    "Cow at Disneyland": {
+      "prefix": "moo::Cow at Disneyland",
+      "body": "\n         O__O\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Cow visiting the Statue of Liberty": {
+      "prefix": "moo::Cow visiting the Statue of Liberty",
+      "body": "\n         \\\\_|_/\n         (oo) \n  /-------\\\\/  \n / |     ||   \n*  ||----||   \n   ^^    ^^   \n"
+    },
+    "Cow Hanging Ten at Malibu": {
+      "prefix": "moo::Cow Hanging Ten at Malibu",
+      "body": "\n                        (__)      \n                ^^      (oo)      \n            ^^^^ /-------\\\\/       \n         ^^^^^  / |     ||        \n       ^^^^^   *  ||----||        \n    ^^^^^^^^  ====^^====^^====    \n^^^^^^^^^^^^^/                    \n^^^^^^^^^^^^^^^^^^                \n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"
+    },
+    "Cow sunning at Fort Lauderdale": {
+      "prefix": "moo::Cow sunning at Fort Lauderdale",
+      "body": "\n   (__)   \n   (--)   \n  /-\\\\/-\\\\  \n /|    |\\\\ \n^ |    | ^\n  |    |  \n  /----\\\\  \n /    \\\\ \\\\ \n^      * ^\\\\n"
+    },
+    "Cow trying out for a part in the new JAWS movie": {
+      "prefix": "moo::Cow trying out for a part in the new JAWS movie",
+      "body": "\n       )\\\\               (__)      \n      /  \\\\              (oo)      \n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"
+    },
+    "Cow skiing a Black Diamond at Aspen": {
+      "prefix": "moo::Cow skiing a Black Diamond at Aspen",
+      "body": "\n*            \n \\\\          \n  \\\\         \n  |\\\\        \n\\\\ | \\\\ (__) \n\\\\\\\\\\\\|| \\\\(oo)\n \\\\||\\\\ \\\\\\\\\\\\/\n  ^^ \\\\||    \n   \\\\\\\\\\\\ ||   \n    \\\\\\\\\\\\||   \n     \\\\||    \n      ^^     \n       \\\\\\\\\\\\_ \n        \\\\_\n"
+    },
+    "Cow chugging brews and staring at sunbathers at Fort Lauderdale": {
+      "prefix": "moo::Cow chugging brews and staring at sunbathers at Fort Lauderdale",
+      "body": "\n         (__)  \n         (DD)  \n  /-------\\\\/   \n / |     ||_\\\\_/\n*  ||----|     \n   ^^    ^     \n"
+    },
+    "(New) Jersey Cow": {
+      "prefix": "moo::(New) Jersey Cow",
+      "body": "\n( @@@ )                          \n ( @@ )            (------------)\n    @@  (__)       (  *>COUGH<* )\n     @@ (oo) . . . (  *>COUGH<* )\n  /--UU--\\\\/        (____________)\n / |    ||                       \n*  ||---||                       \n"
+    },
+    "Cow sheltering from English Weather": {
+      "prefix": "moo::Cow sheltering from English Weather",
+      "body": "\n / / / / / / / / / / / \n/ / / / / / / / / / / /\n/ / / / / _______   / /\n/ / /    /   |   \\\\  / /  \n/ / /    (__)|      / /  \n/ / /    (oo)|      / /  \n  /-------\\\\/ |           \n / |     ||^_|           \n*  ||----|               \n   ^^    ^               \n"
+    },
+    "Cow fantasizing about \"Riding the Mechanical Bull\"": {
+      "prefix": "moo::Cow fantasizing about \"Riding the Mechanical Bull\"",
+      "body": "\n                      O O                 O O\n                       \\\\ \\\\               / / \n                        \\\\ \\\\          (__) /  \n         (__)            \\\\ \\\\         (xx)/   \n         (DD)             \\\\ +--------+\\\\//    \n  /-------\\\\/               \\\\|        | /     \n / |     ||                 +--------+       \n*  ||----||                                  \n   ^^    ^^                                  \n"
+    },
+    "Cow-struction worker": {
+      "prefix": "moo::Cow-struction worker",
+      "body": "\n   o==+--                              \n   |  |\\\\ \\\\                             \n   |  | \\\\ \\\\    ____________________    \n   |   \\\\ \\\\ \\\\   |                  |    \n   |    \\\\ \\\\ \\\\  |  +------------+  |    \n   |     \\\\ \\\\ \\\\ |  |     (__)   |  |    \n   |      \\\\ \\\\ \\\\|  |     (oo)   |  |    \n   |       \\\\ \\\\ |  | o\\\\  .\\\\/.   |  |    \n   |        \\\\ \\\\|  | | \\\\/    \\\\  |  |    \n /---\\\\       \\\\ |  +------------+  |    \n/     \\\\       \\\\|                  |    \n|     |        |                  |    \n\\\\     /        |                  |    \n \\\\---/         |                  |    \n               |                  |    \n            -------------------------- \n           (                          )\n            -------------------------- \n"
+    },
+    "Cow town after a visit by the cow-struction worker": {
+      "prefix": "moo::Cow town after a visit by the cow-struction worker",
+      "body": "\n                                 |      \n                               /---\\\\    \n                               : = :    \n                               :   :    \n             :,','. '.         :   :---\\\\\n..,,,',.',',;,'.';'.'.'.,.'.'..:.  :   :\n"
+    },
+    "Cow-vertible": {
+      "prefix": "moo::Cow-vertible",
+      "body": "\n                         (__)                    \n         (__)            (oo)         (__)       \n         (oo)            /\\\\/          (oo)       \n  /-------\\\\/         /--/--            \\\\/-----   \n / |     ||         / |    `-.         / |    `-.\n*  ||----||        *  ||----||        *  ||----||\n   OO    OO           OO    OO           OO    OO\n"
+    },
+    "Cow-vette Cow-vertible": {
+      "prefix": "moo::Cow-vette Cow-vertible",
+      "body": "\n                              (__)                                \n*_                     *_     ( oo             *_                 \n  \\\\      (__)            \\\\    /\\\\/                \\\\  (__)          \n   \\\\.----( oo____         \\\\.-/----._____          \\\\.( oo___\\\\____  \n    ||____\\\\/____ \\\\         ||__________ \\\\          |_\\\\/________ \\\\ \n    OO          `OO        OO          `OO         OO          `OO\n"
+    },
+    "Bill Bixby male relative cow": {
+      "prefix": "moo::Bill Bixby male relative cow",
+      "body": "\n         o  o\n         |__|\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ~~    ~~  \n"
+    },
+    "Bela Lugosi Cow": {
+      "prefix": "moo::Bela Lugosi Cow",
+      "body": "\n         (__)\n         (oo)\n  /-------vv \n / |     ||  \n*  ||----||  \n   ~~    ~~  \n"
+    },
+    "Boris Karloff Cow": {
+      "prefix": "moo::Boris Karloff Cow",
+      "body": "\n         (__) \n        =(oo)=\n  /-------\\\\/  \n / |     ||   \n*  ||----||   \n   ~~    ~~   \n"
+    },
+    "Claude Rains Cow": {
+      "prefix": "moo::Claude Rains Cow",
+      "body": "\n          \n     oo   \n          \n          \n          \n          \n"
+    },
+    "Julie Andrews Cow ": {
+      "prefix": "moo::Julie Andrews Cow ",
+      "body": "\n                x       \n            xxxx|xxxx   \n         xxxxxxx|xxxxxxx\n                |       \n               //       \n         (__) //        \n         (oo)//         \n  /-------\\\\//           \n / |     |//            \n*  ||----|              \n   ^^    ^^             \n"
+    },
+    "Siamese cows": {
+      "prefix": "moo::Siamese cows",
+      "body": "\n         (__)   (__)         \n         (oo)===(oo)         \n  /-------\\\\/     \\\\/-------\\\\  \n / |     ||       ||     | \\\\ \n*  ||----||       ||----||  *\n   ^^    ^^       ^^    ^^   \n"
+    },
+    "Mathematical Cow": {
+      "prefix": "moo::Mathematical Cow",
+      "body": "\n           (__)\n           (oo)\n  /---------\\\\/ \n / | x=a(b)||  \n*  ||------||  \n   ^^      ^^  \n"
+    },
+    "Television Cow": {
+      "prefix": "moo::Television Cow",
+      "body": "\n       o        o\n        \\\\      / \n         \\\\    /  \n          \\\\__/   \n   _______(oo)   \n  /|  ___  \\\\/    \n / | {   }||     \n*  ||{___}||     \n   ||-----||     \n   ^^     ^^     \n"
+    },
+    "This cow does Disco": {
+      "prefix": "moo::This cow does Disco",
+      "body": "\n         (__)    ^\n         (oo)   / \n     _____\\\\/___/  \n    /  /\\\\ / /     \n   ^  /  * /      \n     / ___/       \n*----/\\\\           \n    /  \\\\          \n   /   /          \n  ^    ^          \n"
+    },
+    "This cow jumped over the Moon": {
+      "prefix": "moo::This cow jumped over the Moon",
+      "body": "\n        o                                                  \n        | [---]                                            \n        |   |                                              \n        |   |                              |------========|\n   /----|---|\\\\                             | **** |=======|\n  /___/___\\\\___\\\\                         o  | **** |=======|\n  |            |                     ___|  |==============|\n  |           |                ___  {(__)} |==============|\n  \\\\-----------/             [](   )={(oo)} |==============|\n   \\\\  \\\\   /  /             /---===--{ \\\\/ } |               \n-----------------         / | NASA  |====  |               \n|               |        *  ||------||-----^               \n-----------------           ||      |      |               \n  /    /  \\\\   \\\\             ^^      ^      |               \n /     ----    \\\\                                           \n  ^^         ^^                                            \n"
+    },
+    "Psycowlogist and patient": {
+      "prefix": "moo::Psycowlogist and patient",
+      "body": "\n    (__)                                                \n   ([][])            \"I have this recurring dream       \n   __\\\\/_--U              about golden arches.\"..  (__)  \n  /\\\\    \\\\\\\\__                                 ^  :..(\"\")  \n /\\\\\\\\\\\\\\\\\\\\  /  /                         //\\\\  ____\\\\_____\\\\/ //\n/----^/__/\\\\\\\\ /\\\\\\\\                     // \\\\\\\\\\\\/     \\\\___ / // \n    \\\\\\\\\\\\\\\\\\\\____/--\\\\--                 // /-/__________/ //  \n     /======   \\\\/            =======/==============//   \n  *_/ /    \\\\   /^              //  /              \\\\\\\\\\\\    \n     /      \\\\ ^               //                   \\\\\\\\\\\\   \n"
+    },
+    "It's a bird... It's a plane...": {
+      "prefix": "moo::It's a bird... It's a plane...",
+      "body": "\n     \\\\^^^^^^^^\\\\   (__)    \n      \\\\^^^^^^^^\\\\\\\\\\\\ (oo)    \n   *-----\\\\_______\\\\/\\\\/     \n ^_______/   ---  \\\\______^\n^--------\\\\   \\\\S/  /\\\\_____^\n          \\\\______/        \n"
+    },
+    "The Boss (Bruce Holstien)": {
+      "prefix": "moo::The Boss (Bruce Holstien)",
+      "body": "\n  (___)          \n  (o o)          \n   \\\\ /           \n \\\\--O--/         \n// -----\\\\        \n\\\\\\\\\\\\/_^{} /==V===[]\n  \\\\_____\\\\\\\\\\\\//     \n   \\\\__/          \n   //\\\\\\\\\\\\          \n   //  \\\\\\\\\\\\        \n   //   //       \n   ^^    ^^      \n"
+    },
+    "Some cows get in trouble...": {
+      "prefix": "moo::Some cows get in trouble...",
+      "body": "\n_____________________________\n|             |-------------|\n|             |   ________  |\n|   COWNTY    |  | (|__|) | |\n|    JAIL     |  |  |oo|  | |\n|             |  |__|\\\\/|__| |\n|             | o           |\n|             | ^           |\n|             | ]           |\n|             |             |\n|_____________|_____________|\n"
+    },
+    "Cattle Guard": {
+      "prefix": "moo::Cattle Guard",
+      "body": "\n==================            \nH                H            \nH     (__)       H            \nH     (oo)       H       __   \nH    / \\\\/ \\\\      H     /    \\\\ \nH   | |  | |     H    | STOP |\nH   D===b=-----  H     \\\\ __ / \nH^^^^^^^^^^^^^^^^H       ||   \nH                H       ||   \nH                H       ||   \nH                H       ||   \nH                H       ||   \n^^^^^^^^^^^^^^^^^^     ^^^^^^^\n"
+    },
+    "Cow Hide": {
+      "prefix": "moo::Cow Hide",
+      "body": "\n    (  (    )      \n  ( (     )   )    \n  ( (         )    \n (           / )   \n( ( \\\\\\\\\\\\       )     \n    ( |  // )      \n      |   |    (__)\n      |   |    (oo)\n      |   | ----\\\\/ \n      |   |    ||  \n    **|   | ---||  \n"
+    },
+    "Cow Pie": {
+      "prefix": "moo::Cow Pie",
+      "body": "\n       (__)      \n ______(oo)_____ \n( _)_______(__) )\n  \\\\ __________/  \n"
+    },
+    "\"Cow Town\"": {
+      "prefix": "moo::\"Cow Town\"",
+      "body": "\n                    \\\\  |  /         ___________                  \n     ____________  \\\\ \\\\_# /         |  ___      |       _________ \n    |            |  \\\\  #/          | |   |     |      | = = = = |\n    | |   |   |  |   \\\\\\\\\\\\#           | |`v'|     |      |         |\n    |            |    \\\\#  //       |  --- ___  |      | |  || | |\n    | |   |   |  |     #_//        |     |   | |      |         |\n    |            |  \\\\\\\\\\\\ #_/_______  |     |   | |      | |  || | |\n    | |   |   |  |   \\\\\\\\\\\\# /_____/ \\\\ |      ---  |      |         |\n    |            |    \\\\# |+ ++|  | |  |^^^^^^| |      | |  || | |\n    |            |    \\\\# |+ ++|  | |  |^^^^^^| |      | |  || | |\n ^^^|    (^^^^^) |^^^^^#^| H  |_ |^|  | |||| | |^^^^^^|         |\n    |    ( ||| ) |     # ^^^^^^    |  | |||| | |      | ||||||| |\n    ^^^^^^^^^^^^^________/  /_____ |  | |||| | |      | ||||||| |\n         `v'-                      ^^^^^^^^^^^^^      | ||||||| |\n          || |`.      (__)    (__)                          ( )  \n                      (oo)    (oo)                       /---V   \n               /-------\\\\/      \\\\/ --------\\\\             * |  |   \n              / |     ||        ||_______| \\\\                     \n             *  ||W---||        ||      ||  *                    \n                ^^    ^^        ^^      ^^                       \n"
+    },
+    "This cow plays bagpipes": {
+      "prefix": "moo::This cow plays bagpipes",
+      "body": "\n       \\\\ (__)\n       \\\\\\\\\\\\(oo)\n  /-----\\\\\\\\\\\\\\\\\\\\/ \n / |    (##) \n*  ||----||\" \n   ^^    ^^  \n"
+    },
+    "Cow from Beijing": {
+      "prefix": "moo::Cow from Beijing",
+      "body": "\n         (__)\n         (\\\\/)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ~~    ~~  \n"
+    },
+    "Satanic cow": {
+      "prefix": "moo::Satanic cow",
+      "body": "\n         (__)\n         (\\\\/)\n  /-------\\\\/ \n / | 666 ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "This cow is a Yuppie": {
+      "prefix": "moo::This cow is a Yuppie",
+      "body": "\n         (__)\n         (\\\\$\\\\$)\n  /-------\\\\/ \n / |=====||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Cow in love": {
+      "prefix": "moo::Cow in love",
+      "body": "\n         (__)\n         (**)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Cow in Argyle": {
+      "prefix": "moo::Cow in Argyle",
+      "body": "\n         (__)\n         (oo)\n  /-'''''-\\\\/ \n / |'''''||  \n*  ||''''||  \n   ^^    ^^  \n"
+    },
+    "Stretch Cow": {
+      "prefix": "moo::Stretch Cow",
+      "body": "\n                     (__)\n                     (oo)\n  /-------------------\\\\/ \n / |                 ||  \n*  ||----------------||  \n   ^^                ^^  \n"
+    },
+    "Cow in Heat": {
+      "prefix": "moo::Cow in Heat",
+      "body": "\n                *       \n             **   **    \n        * **  * * *  ** \n       *   /  /   \\\\ *  *\n    \\\\  \\\\ /  \\\\        / /\n *  /  / \\\\  \\\\  (__)  \\\\ \\\\\n   /           (00)  / /\n   \\\\    /-------\\\\/   \\\\ \\\\\n   /   / |     ||    / /\n \\\\ \\\\  *  ||----||    \\\\ \\\\\n/  /     ^^    ^^    / /\n"
+    },
+    "Cow Chewing Marbles": {
+      "prefix": "moo::Cow Chewing Marbles",
+      "body": "\n           (__)\n  /--------(00)\n / |      |(  )\n*  ||---- ||() \n   ||     ||   \n   ^^     ^^   \n"
+    },
+    "Cowt in the Act": {
+      "prefix": "moo::Cowt in the Act",
+      "body": "\n         (___)      \n         (o o)      \n   /------\\\\ /   (__)\n  /    ____O    (oo)\n |   / /----\\\\----\\\\/ \n /\\\\oo===|  /    ||  \n| ||   *||^-----||  \n*  ^^   ^^      ^^  \n"
+    },
+    "low rider cow": {
+      "prefix": "moo::low rider cow",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  OO----OO  \n"
+    },
+    "Detroit cow": {
+      "prefix": "moo::Detroit cow",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   OO    OO  \n"
+    },
+    "Mustang cow": {
+      "prefix": "moo::Mustang cow",
+      "body": "\n         \\\\__\\\\\n     o   (oo)\n  ____\\\\___\\\\/ \n / |     ||  \n*  ||----||  \n   OO    OO  \n"
+    },
+    "pickup cow": {
+      "prefix": "moo::pickup cow",
+      "body": "\n        (__)\n        (oo)\n*+-------\\\\/ \n||______||  \n  ||----||  \n  OO    OO  \n"
+    },
+    "li-moo-cow": {
+      "prefix": "moo::li-moo-cow",
+      "body": "\n                 (__)\n                 (oo)\n  /---------------\\\\/ \n / |             ||  \n*  ||------------||  \n   OO            OO  \n"
+    },
+    "fastback cow": {
+      "prefix": "moo::fastback cow",
+      "body": "\n        (__)\n        (oo)\n    /----\\\\/ \n   /    ||  \n*-||----||  \n  OO    OO  \n"
+    },
+    "teenager's cow": {
+      "prefix": "moo::teenager's cow",
+      "body": "\n         \\\\_||_~\n         (*||*)\n  /-------\\\\||/ \n / |     ||    \n*  ||----||    \n   OO    }{    \n"
+    },
+    "holy cow": {
+      "prefix": "moo::holy cow",
+      "body": "\n         ____ \n        (____)\n              \n         (__) \n         (oo) \n  /-------\\\\/  \n / |     ||   \n*  ||----||   \n   ~~    ~~   \n"
+    },
+    "Moo-ammar Cowdafi armed and dangerous": {
+      "prefix": "moo::Moo-ammar Cowdafi armed and dangerous",
+      "body": "\n        .xxxx.        \n        '(oo)`        \n  /-----'-\\\\/ `        \n / |    |============>\n*  ||----| (~)        \n   ~~    ~            \n"
+    },
+    "A-bomb-in-a-bull": {
+      "prefix": "moo::A-bomb-in-a-bull",
+      "body": "\n         (___)\n         (o o)\n  /-------\\\\ / \n / |  O~ ||O  \n*  ||,---||   \n   ^^    ^^   \n"
+    },
+    "Coward": {
+      "prefix": "moo::Coward",
+      "body": "\n (---) \n (   ) \n/-----\\\\\n|     |\n|  |  |\n|  |  |\n|  *  |\n^^   ^^\n"
+    },
+    "Phone Bull": {
+      "prefix": "moo::Phone Bull",
+      "body": "\n         (___)\n         (o o)\n  (-----) \\\\ / \n /  / \\\\    O  \n*  | O |      \n   -----      \n"
+    },
+    "Eric the half a cow": {
+      "prefix": "moo::Eric the half a cow",
+      "body": "\n        (__)\n        (oo)\n     ----\\\\/ \n        ||  \n     ---||  \n        ~~  \n"
+    },
+    "The unknown cowmic": {
+      "prefix": "moo::The unknown cowmic",
+      "body": "\n        |    |\n        |    |\n  /-----~~~~~~\n / |     ||   \n*  ||----||   \n   ~~    ~~   \n"
+    },
+    "Tax Acowntant": {
+      "prefix": "moo::Tax Acowntant",
+      "body": "\n         (__)\n         (\\\\$\\\\$)\n  /-------\\\\/ \n / | IRS ||  \n*  ||----||  \n   ~~    ~~  \n"
+    },
+    "Cowed Forces": {
+      "prefix": "moo::Cowed Forces",
+      "body": "\n   (___)            (___)             (___)       \n   (0 0)            (0 0)             (0 0)       \n    \\\\ /              \\\\ /               \\\\ /        \n __[_V_]__        __[_V_]__         __[_V_]__     \n/_________\\\\===:  /_________\\\\===:   /_________\\\\===:\n\\\\OOO---OOO/      \\\\OOO---OOO/       \\\\OOO---OOO/    \n"
+    },
+    "Thomas Edison's cow ": {
+      "prefix": "moo::Thomas Edison's cow ",
+      "body": "\n           \\\\ _ / \n          - ( ) -\n           / \" \\\\ \n           (__)  \n   ________(oo)  \n  /|        \\\\/   \n / |_______||    \n*  ||      ||    \n   ~~      ~~    \n"
+    },
+    "Cow hearing his master's voice": {
+      "prefix": "moo::Cow hearing his master's voice",
+      "body": "\n            /\\\\                     \n          /|  |   (__)             \n        /  |  |   (oo)\\\\            \n      /____|  |    \\\\/|  \\\\          \n    /       \\\\/       |    \\\\        \n __(_______          |||__  \\\\      \n|__________|         |||  ____\\\\---*\n"
+    },
+    "Groucho Moo-x": {
+      "prefix": "moo::Groucho Moo-x",
+      "body": "\n           )    (      \n           (____)      \n          / =  = \\\\    ~\n          (-O--O-)    ~\n           (    )     ~\n  /------- ||||||======\n / |     ||  \\\\/        \n*  ||----||            \n   ~~    ~~            \n"
+    },
+    "Chico Moo-x": {
+      "prefix": "moo::Chico Moo-x",
+      "body": "\n             _    \n            / \\\\   \n         =='   `==\n          8 O O 8 \n  /------- (   )  \n / |     || \\\\_/   \n*  ||----||       \n   ~~    ~~       \n"
+    },
+    "Harpo Moo-x": {
+      "prefix": "moo::Harpo Moo-x",
+      "body": "\n         (__)   ==========I\n         (oo)    \\\\ |||||| I\n  /-------\\\\/      \\\\ ||||| I\n / |     ||__o=<   \\\\ |||| I\n*  ||----|          \\\\ ||| I\n   ~~    ~           \\\\ || I\n"
+    },
+    "Normal Cow": {
+      "prefix": "moo::Normal Cow",
+      "body": "\n______________________\n|                    |\n|            (__)    |\n|            (oo)    |\n|     /-------\\\\/     |\n|    / |     ||      |\n|   *  ||----||      |\n|      ~~    ~~      |\n|--------------------|\n"
+    },
+    "Cow modulo one": {
+      "prefix": "moo::Cow modulo one",
+      "body": "\n_______________________\n|                     |\n|  (__)               |\n|  (oo)               |\n|---\\\\/           /----|\n|  ||           / |   |\n|--||          *  ||--|\n|  ~~             ~~  |\n|---------------------|\n0                     1\n"
+    },
+    "Cow in the GDR before 9-Nov-1989": {
+      "prefix": "moo::Cow in the GDR before 9-Nov-1989",
+      "body": "\n              (__)      \n              (oo)      \n ______________\\\\/______ \n/___/___/___/___/___/_/|\n|___|___|___|___|___|_||\n|_|___|___|___|___|___||\n|___|___|___|___|___|_|/\n"
+    },
+    "Cow in the GDR after 9-Nov-1989": {
+      "prefix": "moo::Cow in the GDR after 9-Nov-1989",
+      "body": "\n                (__)    \n                (oo)    \n ____    /-------\\\\/  __ \n/___/|  / |     || _/_/|\n|__||/|* //-----|||_|_||\n|_|__|/|~~      ~/|___||\n|___|_|/        |___|_|/\n"
+    },
+    "COW-CH": {
+      "prefix": "moo::COW-CH",
+      "body": "\n     ______________(__)_________________ \n   /_______________(oo)_______________ / \n   |                \\\\/                || \n  _|_                                _|| \n /__/_______________________________/__/|\n(   )                              (   )|\n | |________________________________| | |\n \\\\_____________________________________/]\n  []               []               []   \n"
+    },
+    "Cowraffe": {
+      "prefix": "moo::Cowraffe",
+      "body": "\n         (__)\n         (oo)\n          \\\\/ \n          || \n          || \n          || \n          || \n  /------- / \n / |     ||  \n*  ||----||  \n   ~~    ~~  \n"
+    },
+    "\"COWCH POTATO\"": {
+      "prefix": "moo::\"COWCH POTATO\"",
+      "body": "\n                                           *      *  \n                                            \\\\    /   \n                                             \\\\  /    \n    /~~~~~~~~~~~~~~~~~~~~~~~\\\\                 \\\\/     \n  /   (__)                   \\\\           +----------+\n |    (oo) ~~~~~~~~~~~\\\\       |          |          |\n|~~~|  \\\\/. \\\\\\\\\\\\       // \\\\_* |~~~|         |          |\n|   |-----`//`====='\\\\\\\\\\\\-----|   |         |          |\n|   |-----//---------||----|   |         |          |\n|   |_ _ _\"_ _ _ _ _ \"_ _ _|   |         +----------+\n ~||~                      ~||~           ||      || \n"
+    },
+    "Ice Cowbe": {
+      "prefix": "moo::Ice Cowbe",
+      "body": "\n----------   \n|\\\\         \\\\ \n|  ----------\n|  |  (__)  |\n\\\\  |  (oo)  |\n \\\\ |   \\\\/   |\n   ----------\n"
+    },
+    "COWBOOOOOM!": {
+      "prefix": "moo::COWBOOOOOM!",
+      "body": "\n|    (0x)   (       )\n|     \\\\/    (       )\n             W------ \n*----   ====;        \n \\\\           /       \n  \\\\          |       \n    \\\\+       |       \n"
+    },
+    "Psycho Cow (with knife)": {
+      "prefix": "moo::Psycho Cow (with knife)",
+      "body": "\n+------------+         +\n| B A T E S  |  (__)   o\n|C O R R A L |  (**)  /|\n+------------+  \\\\==/ / |\n |          |   (  )   v\n               (    )   \n               (    )   \n               (    )   \n               (    )   \n               (    )   \n                |  |    \n                o  o    \n"
+    },
+    "The Simpsons' cow  ": {
+      "prefix": "moo::The Simpsons' cow  ",
+      "body": "\n         (__)                             \n         (oo)   ------------------------- \n  /-------\\\\/ - | Don't have a Bart, man! |\n / |     ||     ------------------------- \n*  ||----||                               \n   ~~    ~~                               \n"
+    },
+    "COW-PIE": {
+      "prefix": "moo::COW-PIE",
+      "body": "\n _______________________ \n|\\\\ ~                ~  /|\n| \\\\    ~      ~     ~ / |\n|(_\\\\ ~           ~   /_)|\n|(oo\\\\   ~           /oo)|\n| \\\\/ \\\\       ~  ~  / \\\\/ |\n|(__) \\\\           / (__)|\n\\\\(oo)(_\\\\ ~     ~ /_)(oo)|\n \\\\\\\\\\\\/ (oo\\\\       /oo) \\\\// \n  \\\\   \\\\/ \\\\  ~  / \\\\/   /  \n   \\\\  (__)\\\\   / (__) /   \n    \\\\ (oo) \\\\~/  (oo)/    \n     \\\\ \\\\/   :(__)\\\\//     \n      \\\\ (__):(oo) /      \n       \\\\(oo): \\\\/ /       \n        \\\\\\\\\\\\/(__) /        \n         \\\\ (oo)/         \n          \\\\ \\\\//          \n           \\\\:/           \n"
+    },
+    "Cow in trouble (cobweb)": {
+      "prefix": "moo::Cow in trouble (cobweb)",
+      "body": "\n      \\\\               /      \n       \\\\_____________/       \n       /\\\\___________/\\\\       \n      / /\\\\_________/\\\\ \\\\      \n     / / /\\\\_______/\\\\ \\\\ \\\\     \n    / / / / (__) /\\\\ \\\\ \\\\ \\\\    \n___/_/_/_/_ (oo) \\\\_\\\\_\\\\_\\\\_\\\\___\n   \\\\ \\\\ \\\\ \\\\ \\\\ \\\\/  / / / / /   \n    \\\\ \\\\ \\\\ \\\\/_____\\\\/ / / /    \n     \\\\ \\\\ \\\\/_______\\\\/ / /     \n      \\\\ \\\\/_________\\\\/ /      \n       \\\\/___________\\\\/       \n       /             \\\\       \n      /               \\\\      \n"
+    },
+    "Cow before weight loss program": {
+      "prefix": "moo::Cow before weight loss program",
+      "body": "\n          (__)\n          (oo)\n  /--------\\\\/ \n./ |        | \n   |--W-----| \n   | |    | | \n   ~~    ~~   \n"
+    },
+    "Cow after weight loss program": {
+      "prefix": "moo::Cow after weight loss program",
+      "body": "\n         (__)\n         (oo)\n  /~~~~~~~\\\\/ \n./ {~)))))_} \n   ||``   || \n   ~~     ~~ \n"
+    },
+    "Conceited Cow": {
+      "prefix": "moo::Conceited Cow",
+      "body": "\n       (______)\n       ( o  o )\n  /-----\\\\    / \n / |     |\\\\/   \n*  ||----||    \n   ~~    ~~    \n"
+    },
+    "Dolly Parton's Cow": {
+      "prefix": "moo::Dolly Parton's Cow",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  (.)(.)||  \n   ~~    ~~  \n"
+    },
+    "cowstle": {
+      "prefix": "moo::cowstle",
+      "body": "\n                              (___)                                     \n                              (  OO                                     \n  ______      ______      _____\\\\_ |                 ______  (__) ______ \n |      |    |      |    |      |\\\\O                |      | (oo)|      |\n |      |____|      |____|      |                  |      |__\\\\/_|      |\n |                              |                  |                   |\n |                              |   (__)           |                   |\n |          __________          |   (oo)           |     __________    |\n |         |          |         |    \\\\/-------\\\\    |    |          |   |\n |         |          |         | ___ | ___  |_\\\\_  |    |          |   |\n |         |   (__)   |         |_| |_|_| |__|| |__|    |   (__)   |   |\n |         |   (oo)   |                                 |   (oo)   |   |\n |          \\\\___\\\\/___/                                   \\\\___\\\\/___/    |\n |                                                                     |\n |                                                                     |\n  (                                    ______                         ) \n   (                                  /      \\\\                       )  \n     (                               /        \\\\                    )    \n        (                            |        |                 )       \n           |                         |        |              |          \n           |                         |        |              |          \n           |_________________________|________|______________|          \n"
+    },
+    "Cow Circus: The flying Cowlendas": {
+      "prefix": "moo::Cow Circus: The flying Cowlendas",
+      "body": "\n  \\\\ \\\\                   \n   \\\\ \\\\                  \n    \\\\ \\\\                 \n     \\\\ \\\\   (__)         \n      \\\\ \\\\  (oo)         \n   /---\\\\----\\\\/          \n  / |   \\\\  ||           \n *  ||---\\\\-\\\\\\\\\\\\           \n    ~~      ~~          \n            ~~       ~~ \n             \\\\\\\\\\\\_____//  \n             ||     |   \n             /\\\\------\\\\  \n            (oo)      \\\\ \n            (--)       *\n"
+    },
+    "Cow Circus: Tightrope walking": {
+      "prefix": "moo::Cow Circus: Tightrope walking",
+      "body": "\n                          /             \n                         /              \n      *         (__)    /               \n       \\\\        ( OO   /                \n        \\\\---\\\\___/\\\\_|\\\\=/                 \n        |        \\\\===/                  \n        | /______/  /                   \n_________\\\\\\\\\\\\_\\\\\\\\\\\\_____/____________________\n          ~  ~    /                     \n                 /                      \n                /                       \n"
+    },
+    "cow-lliope in the circus parade": {
+      "prefix": "moo::cow-lliope in the circus parade",
+      "body": "\n       ______________________                                     \n      |                      |\\\\                                   \n      |       (__)           | |                                  \n      |       (oo)           | |                                  \n      |        \\\\/            | |                                  \n      |       / \\\\ \\\\          | |                                  \n     /////////   \\\\_ \\\\_///////  |                                  \n      |     |     /          | |                           (__)   \n      |   /++++++<           | |                      _____(oo)   \n      |==/====|==\\\\=\\\\=========|=|===========================\\\\\\\\\\\\/    \n      | *     |    \\\\_\\\\_      | |                   / |     ||     \n_______O)-----~---------------\\\\O)_________________*__||----||_____\n"
+    },
+    "Cow balancing on ball": {
+      "prefix": "moo::Cow balancing on ball",
+      "body": "\n     *          \n      \\\\         \n   w   \\\\    w   \n   \\\\\\\\\\\\  /\\\\  //   \n    \\\\\\\\\\\\/  \\\\//    \n     |    |     \n     |(__)|     \n     \\\\(OO)/     \n     //\\\\/\\\\\\\\\\\\     \n     ||  ||     \n     ||__||     \n    /~~  ~~\\\\    \n  / ======== \\\\  \n /            \\\\ \n|==============|\n \\\\            / \n  \\\\ ======== /  \n    \\\\ _____ /   \n"
+    },
+    "Cowslip": {
+      "prefix": "moo::Cowslip",
+      "body": "\n   (__)   \n   (oo)   \n  .-\\\\/-.  \n <|    |  \n  \\\\ \\\\/ /  \n  |\\\\/\\\\/|  \n  /----\\\\  \n /      \\\\ \n /* * * \\\\ \n/__*_*_*_\\\\\\\\\n  ||  ||  \n  ~~  ~~  \n"
+    },
+    "Cownilingus": {
+      "prefix": "moo::Cownilingus",
+      "body": "\n    (__)   \n    (oo)   \n     \\\\/    \n --(  )--< \n    /  \\\\   \n--- {} ---<\n v  /\\\\  v  \n  | (oo) | \n   \\\\(~~)/  \n    |  |   \n    |  |   \n   / \\\\/ \\\\  \n   |  \\\\ |  \n   ~  / ~  \n     *     \n"
+    },
+    "Cowncillor": {
+      "prefix": "moo::Cowncillor",
+      "body": "\n         (__)                          \n         (oo)     ____________________ \n  /-------\\\\/     |                    |\n / |     |\\\\ /    |  o  o  o  o  o  o  |\n*  ||----| /     ======================\n   ~~    ~       ||                  ||\n"
+    },
+    "Humphrey Cow-gurt": {
+      "prefix": "moo::Humphrey Cow-gurt",
+      "body": "\n -'`-       \"Here's \n ( oo  ~     mooing \n /\\\\_|--      at you,\n| \\\\ \\\\__  _   kid!\"  \n|  \\\\___['           \n|    ||             \n|____|-             \n |  |               \n ~  ~               \n"
+    },
+    "A game of cowntract bridge": {
+      "prefix": "moo::A game of cowntract bridge",
+      "body": "\n         (__)    (__)   (__)    (__)         \n         (oo)    (oo)   (oo)    (oo)         \n  /-------\\\\/      \\\\/     \\\\/      \\\\/-------\\\\  \n / |     ||  ===================  ||     | \\\\ \n*  ||----||   || |--|   |--| ||   ||----||  *\n   ~~    ~~   -- ~  ~   ~  ~ --   ~~    ~~   \n"
+    },
+    "Wolfgang Amadeus Moo-zart": {
+      "prefix": "moo::Wolfgang Amadeus Moo-zart",
+      "body": "\n    (__)                   \n    (oo)                   \n   / \\\\/       ____________ \n  /   \\\\===~__|            |\n _|___ /\\\\  |______________|\n|=====| |   |            | \n*I   I| |   |            | \n I   I~ ~   |            | \n"
+    },
+    "Just a humble cownoisseur": {
+      "prefix": "moo::Just a humble cownoisseur",
+      "body": "\n               ----------------------\n         (__)  | \\\\-/   \\\\-/    ||    |\n         (oo)  | _|_   _|_   |__|   |\n  /-------\\\\/   ----------------------\n / |     ||    |   \\\\-/  |   |    |  |\n*  ||----||    |   _|_ |_| |_|  |_| |\n   ~~    ~~    ----------------------\n"
+    },
+    "a cownfluence": {
+      "prefix": "moo::a cownfluence",
+      "body": "\n(__)  (__)   (__) (__)(__)    (__) (__)(__)(__)  (__)    \n(oo(__)oo) (__)o) (oo)((__)(__)oo) (__)(o(__)o)(__)o)(__)\n \\\\/(oo)\\\\/  (oo)/(__)/  (oo)(oo)\\\\/  (oo) \\\\(oo)/ (oo)/ (oo)\n    \\\\/      \\\\/  (oo)    \\\\/  \\\\/      \\\\/    \\\\/    \\\\/    \\\\/ \n"
+    },
+    "Egyptian Cow": {
+      "prefix": "moo::Egyptian Cow",
+      "body": "\n    (__(  .-<\n    (oo)  |  \n  ___\\\\/___|  \n |  |  |     \n |  |  |     \n-'  |  |      \n*----/\\\\      \n    /  \\\\     \n   /    \\\\    \n   ~     ~   \n"
+    },
+    "Marie Antoinette's Cow": {
+      "prefix": "moo::Marie Antoinette's Cow",
+      "body": "\n                _______       \n               |   |   |      \n               |___|___|      \n               |\\\\_____/|      \n               |       |      \n               |_______|      \n           _   |   _   |      \n  /-------//   |--(_)--|      \n / |     ||    |_______|  (__)\n*  ||----||    |       |  (++)\n   ~~    ~~    |_______|   \\\\/ \n"
+    },
+    "a Certain Time Lord's Cow": {
+      "prefix": "moo::a Certain Time Lord's Cow",
+      "body": "\n         _                      \n________|@|________             \n |  POLICE  BOX  |              \n |---------------|              \n |_______|     / |              \n ||  |  ||    |  |              \n ||-----||    |  |              \n ||__|__||    |  |              \n |  ___  |    |  |              \n | |___| |    |  |              \n | _____ |     (__)             \n ||     ||     (oo)    ---------\n ||     ||----//\\\\/ ---< Master? \n ||     ||B-9  \\\\ |     ---------\n ||_____||______\\\\|              \n |_______|_______|              \n"
+    },
+    "Vulcan Cow": {
+      "prefix": "moo::Vulcan Cow",
+      "body": "\n        __  \n      (~\\\\/~)\n       \\\\oo/ \n  /-----\\\\/  \n /|      |  \nV ||----||  \n  ~~    ~~  \n"
+    },
+    "Klingon Cow": {
+      "prefix": "moo::Klingon Cow",
+      "body": "\n       \\\\(:)/\n       (o|o)\n  /-----\\\\_/ \n /|      |  \n~ ||----||  \n  ~~    ~~  \n"
+    },
+    "RoboCow": {
+      "prefix": "moo::RoboCow",
+      "body": "\n        (___)\n        |===|\n ________\\\\_/ \n| |        | \n# ||______|| \n  ||      || \n  ~~      ~~ \n"
+    },
+    "a Dalek Cow": {
+      "prefix": "moo::a Dalek Cow",
+      "body": "\n                  ---------------- \n     (__)     ---< EXTERMINATE!!! |\n     ( ----0      ---------------- \n     _\\\\/_                          \n    /oooo\\\\---O                     \n   /oooooo\\\\                        \n  /oooooooo\\\\                       \n /oooooooooo\\\\                      \n/____________\\\\                     \n"
+    },
+    "Ronald McDonald's Cows": {
+      "prefix": "moo::Ronald McDonald's Cows",
+      "body": "\n   __________________        ___________________        ___________________      \n  /ine McBovine McBov\\\\      /McCow McCow McCow M\\\\      /ttle McCattle McCat\\\\  \n /cBovine McBovine McB\\\\    /Cow McCow McCow McCow\\\\    /e McCattle McCattle M\\\\ \n------------------------  -------------------------  -------------------------\n \\\\ovine McBovine McBov/    \\\\McCow McCow McCow McC/    \\\\attle McCattle McCatt/ \n  \\\\McBovine McBovine /      \\\\w McCow McCow McCow/      \\\\ McCattle McCattle /  \n   ~~~~~~~~~~~~~~~~~~        ~~~~~~~~~~~~~~~~~~~        ~~~~~~~~~~~~~~~~~~~   \n"
+    },
+    "Cow Express": {
+      "prefix": "moo::Cow Express",
+      "body": "\n                       @ @                                   \n                        @@@ @                                \n                          @@ @                               \n           Pffii           @@@@ @@                           \n     ___________D           @@@@@@                           \n    |________  |            _______                          \n     (__)   | /             \\\\     /                          \n     ( oo /~| |      __      \\\\   /                           \n     /\\\\_|// | |     /  \\\\     |  |                            \n   _/____/__| |    |    |    |  |                            \n  |       ___/-----------------_| (__)                       \n  |      /   \\\\     \\\\     \\\\       `(oo)                       \n  |     /     \\\\     |     |       |\\\\/                        \n  |    |   O  |    /     / __    /                           \n  |----|      |-----------/  \\\\-\\\\\\\\\\\\\\\\\\\\                 (__)      \n       \\\\     /           | o |  \\\\\\\\\\\\\\\\\\\\               _(  )_     \n________\\\\___/____________\\\\__/____\\\\\\\\\\\\\\\\\\\\_____________/_/__\\\\_\\\\____\n"
+    },
+    "Pro-democracy cow from Beijing": {
+      "prefix": "moo::Pro-democracy cow from Beijing",
+      "body": "\n__  |   \\\\ /  \n  \\\\/----///\\\\ \n*/\\\\______(xx)\n         (  )\n"
+    },
+    "Canadian Cow": {
+      "prefix": "moo::Canadian Cow",
+      "body": "\n          o         _____________  \n          /\\\\       /             \\\\ \n         [__]     ( take off, eh! )\n         (oo) ----'\\\\_____________/ \n  /-------\\\\/                       \n / |     ||__|                     \n*  ||----|   U                     \n   ~~    ~                         \n"
+    },
+    "Santa Cow and his rein cows caught in a Montana snow flurry": {
+      "prefix": "moo::Santa Cow and his rein cows caught in a Montana snow flurry",
+      "body": "\n     o          o               o              o             o       o      \no  o       o         o       o     o         o   o       o       o          \n    o   o      o       o       (    )      o    (    )        o  (    (    o\n          O                     )  (             )  (             )  (      \no  o     (__)     o     o       (__)        o    (__)     o   o   (__)      \n         (oo)                   (oo)             (oo)      o      (oo)     o\n  /------\\\\$\\\\$\\\\$\\\\$   o   o    /-------\\\\/  o    /-------\\\\/       /-------\\\\/       \n / |     \\\\$\\\\$\\\\$\\\\$           / |     ||       / |     ||       / |     ||        \n*  ||----||        o   *  ||----||      *  ||----||      *  ||----||   o    \n   ~~    ~~               ~~    ~~         ~~    ~~         ~~    ~~        \n"
+    },
+    "Rudolph the Red-Nosed Cow": {
+      "prefix": "moo::Rudolph the Red-Nosed Cow",
+      "body": "\n   __________ (___)\n  /|         `(0 0)\n / |           \\\\ / \n*  |||----|||-/ *  \n   |||    |||      \n"
+    },
+    "Santa Cows": {
+      "prefix": "moo::Santa Cows",
+      "body": "\n       ___                                \n     _/...\\\\  *==\\\\        ________________ \n    /::::::\\\\  (/_\\\\)     /                \\\\\\\\\n    |:::::::_ (o o)     |  Moo, Moo, Moo |\n  /-----+-+--- \\\\ /     /\\\\________________/\n / |    | |   | 0  ___/                   \n*  | _  |_| _ |                           \n   || --+_+- ||                           \n   --        --                           \n  |  |_     |  |_                         \n  |____|    |____|                        \n"
+    },
+    "Merry Cow-ristmas": {
+      "prefix": "moo::Merry Cow-ristmas",
+      "body": "\n         /\\\\            \n        / O\\\\           \n       / ,  \\\\          \n      /  O   \\\\         \n      -/ ,  \\\\-         \n      /  O   \\\\         \n     /,    ,  \\\\        \n    / O    O   \\\\       \n    -/  ,     \\\\-       \n    /   O   ,  \\\\       \n   /  ,     O  ,\\\\  (__)\n  /   O   ,    O \\\\ (oo)\n /        O       \\\\-\\\\/ \n ------------------||  \n         ||/ ||----||  \n         ||  ~~    ~~  \n"
+    },
+    "Christmas Cowols": {
+      "prefix": "moo::Christmas Cowols",
+      "body": "\n                        _ - ~ ~ ~ ~ ~ ~ ~ ~ - _  \n                      /          |~      |~    \\\\\\\\\n                     |      |~  o|   |~ o|      |\n                   /  \\\\    o|       o|         / \n                 /      \\\\                    /   \n                /        / ~ ~ ~ ~ ~ ~ ~ ~ ~     \n               /        /          .             \n           /*     *\\\\   /         ./\\\\.            \n          /\\\\       /\\\\           .//.\\\\.           \n         ****     ****         .///\\\\\\\\\\\\\\\\\\\\.          \n         (oo)     (oo)         ////\\\\\\\\\\\\\\\\\\\\\\\\\\\\.         \n  /-------\\\\/       \\\\/-------\\\\     ||             \n /|      ||         ||      |\\\\    ~~             \n*  ||----||         ||----||  *                  \n   ~~    ~~         ~~    ~~                     \n"
+    },
+    "Moory Cowristmas!": {
+      "prefix": "moo::Moory Cowristmas!",
+      "body": "\n                               O                                          \n                                   O  O  O                                \n                                            O                    *        \n                                             ___                /|\\\\       \n                        _____________________|  |_____         /||o\\\\      \n                       /______________________________\\\\       /|o|||\\\\     \n     ~                /________________________________\\\\     /|||||o|\\\\    \n      ~~  ####          ||   |   ||||||||||||   |   ||      /||o||||||\\\\   \n         ~(oo)          ||___|___||||||||||||___|___||     /||||o||||||\\\\  \n   /-------\\\\/           ||   |   ||||||||||||   |   ||    /|o||||o|||o||\\\\ \n  / |     ||            ||___|___||||||||||||___|__ ||          | |       \n *  ||----||            ||||||||||||||||||||||||||||||oooooooooo| |ooooooo\noooo~~oooo~~oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo\n"
+    },
+    "Mark Rothko Cow": {
+      "prefix": "moo::Mark Rothko Cow",
+      "body": "\n|----------------------|\n|                      |\n|                      |\n|                      |\n|                      |\n|______________________|\n                        \n|----------------------|\n|______________________|\n                        \n ---------------------- \n"
+    },
+    "Minimalist Dead Cow": {
+      "prefix": "moo::Minimalist Dead Cow",
+      "body": "\n               /\\\\           \n        /\\\\  /\\\\/  \\\\          \n       /  \\\\/ /    \\\\/\\\\       \n      /            \\\\ \\\\      \n----------------------------\n          \\\\/                \n        o-@@                \n"
+    },
+    "Andy Warhol Cow": {
+      "prefix": "moo::Andy Warhol Cow",
+      "body": "\n  (__) |  (__) |  (__) |  (__) |  (__) |  (__) |\n  ( oo |  ( oo |  ( oo |  ( oo |  ( oo |  ( oo |\n  /\\\\_| |  /\\\\_| |  /\\\\_| |  /\\\\_| |  /\\\\_| |  /\\\\_| |\n------------------------------------------------\n  (__) |  (__) |  (__) |  (__) |  (__) |  (__) |\n  ( oo |  ( oo |  ( oo |  ( oo |  ( oo |  ( oo |\n  /\\\\_| |  /\\\\_| |  /\\\\_| |  /\\\\_| |  /\\\\_| |  /\\\\_| |\n------------------------------------------------\n  (__) |  (__) |  (__) |  (__) |  (__) |  (__) |\n  ( oo |  ( oo |  ( oo |  ( oo |  ( oo |  ( oo |\n  /\\\\_| |  /\\\\_| |  /\\\\_| |  /\\\\_| |  /\\\\_| |  /\\\\_| |\n------------------------------------------------\n  (__) |  (__) |  (__) |  (__) |  (__) |  (__) |\n  ( oo |  ( oo |  ( oo |  ( oo |  ( oo |  ( oo |\n  /\\\\_| |  /\\\\_| |  /\\\\_| |  /\\\\_| |  /\\\\_| |  /\\\\_| |\n------------------------------------------------\n"
+    },
+    "Jackson Pollock cow": {
+      "prefix": "moo::Jackson Pollock cow",
+      "body": "\n/=`=~~~#&@~@&)|||<<<<    \n\\\\|}}{}{}{() (&)  ~~~~#***\n#\\\\**~~//?<.+|@@@\\\\/---___ \n\\\\|}}{}{/?<.+|@@*&(*\\\\$@))( \n|@#)@(&*)(\\\\$*I!?\\\\$@\\\\$|\\\\$|\\\\$|\\\\$ \n"
+    },
+    "Rene Margritte Cow": {
+      "prefix": "moo::Rene Margritte Cow",
+      "body": "\n____________________\n|           (__)   |\n|           (oo)   |\n|    /-------\\\\/    |\n|   / |     ||     |\n|  *  ||----||     |\n|     ~~    ~~     |\n| Ceci N'est Pas   |\n|    Une Cow       |\n--------------------\n"
+    },
+    "What cows think when people MOO at them": {
+      "prefix": "moo::What cows think when people MOO at them",
+      "body": "\n                     II                                                       \n      ( MOOOOOO ! )  II\\\\                                                      \n  ________\\\\   /      II +    (__) ..oo( Hey, there's a cow driving that car! )\n |\\\\        `v' \\\\      + II   (00)                                             \n | \\\\________|____\\\\     \\\\II\\\\   \\\\/-------\\\\                                      \n | (     ( @ @ )  )     II +    ||    ||\\\\      (__) ..oo ( How can he     )   \n |\\\\|______\\\\_O_/___|      + II   ||----|| *     (oo)        ( afford that? )   \n | \\\\_______________\\\\      \\\\II\\\\  ~~    ~~        \\\\/--------\\\\                   \n \\\\ (OO_##########_OO)      II +                    ||    || \\\\                 \n (\\\\(_____[PHIL]_____)       + II--+--+--+-II-+--+--+--II+--+--+--+II--+--+-   \n     (_)        (_)          \\\\II          II       ~~ II ~~       II          \n                              II--+--+--+-II-+--+--+--II+--+--+--+II--+--+-   \n"
+    },
+    "Cow giving forgiveness": {
+      "prefix": "moo::Cow giving forgiveness",
+      "body": "\n       /\\\\\\\\\\\\   ~\n      /__\\\\\\\\\\\\  |\n _    (o o)  |\n/ \\\\   /\\\\_/\\\\ / \n  | /|I   I|  \n  ~/ |I   I|  \n  |  |I   I|  \n  |  |I   I|  \n  |  |_____|  \n      ~  *~   \n"
+    },
+    "Moo-hamid Ali": {
+      "prefix": "moo::Moo-hamid Ali",
+      "body": "\n       (__)               \n       ( oo  _            \n       /\\\\__|( ) _         \n      |  \\\\==//=(_)  *POW!*\n      | ====              \n      |    |              \n     /|  _ \\\\              \n   /  / / \\\\ \\\\             \n *    ||   ||             \n      ||_  ||_            \n"
+    },
+    "Cow Bell": {
+      "prefix": "moo::Cow Bell",
+      "body": "\n    (__)    \n    (oo)    \n   /-\\\\/-\\\\   \n  /      \\\\  \n  |      |  \n  |      |  \n /        \\\\ \n __________\\\\\n      \\\\\\\\\\\\    \n      (_)   \n"
+    },
+    "Last of the Moo-hicans ": {
+      "prefix": "moo::Last of the Moo-hicans ",
+      "body": "\n          (!!)\n  !!!!!!!!(oo)\n !/|       \\\\/ \n!/ |______||  \n*  ||     ||  \n   ~~     ~~  \n"
+    },
+    "Mayflower cows": {
+      "prefix": "moo::Mayflower cows",
+      "body": "\n          _/\\\\_\n   _______(oo)\n  /|       \\\\/ \n / |______||  \n*  ||     ||  \n   ~~     ~~  \n"
+    },
+    "Sports Cow": {
+      "prefix": "moo::Sports Cow",
+      "body": "\n            \\\\_\\\\ \n   _________(oo)\n  /| Ferrari \\\\/ \n / |________||  \n*  ||       ||  \n   ~~       ~~  \n"
+    },
+    "\"COWLENDAR\"": {
+      "prefix": "moo::\"COWLENDAR\"",
+      "body": "\n                     (__)\n                     (oo)\n     /--------------- \\\\/ \n   / ( !S M T W T F! )   \n /  (  +-+-+-+-+-+-+  )  \n*   (  +-+-+-+-+-+-+  )  \n     ( +-+-+-+-+-+-+ )   \n      (+-+-+-+-+-+-+)    \n       ||        ||      \n       ||        ||      \n       ~~        ~~      \n"
+    },
+    "\"COWCULATOR\"": {
+      "prefix": "moo::\"COWCULATOR\"",
+      "body": "\n                 (__)\n                 (oo)\n  / ------------- \\\\/ \n / (   |7 8 9 +|  )  \n*  (   |4 5 6 -|  )  \n    (  |1 2 3 X|  )  \n     ( |C 0 = /| )   \n      ~---------~    \n      ||       ||    \n      ||       ||    \n      ~~       ~~    \n"
+    },
+    "Gallifreyan Cow": {
+      "prefix": "moo::Gallifreyan Cow",
+      "body": "\n  /\\\\                       \n /  \\\\         __           \nDOCTOR      _/__\\\\_         \n MOO/      /=(OO)          \n  \\\\/    --/==-\\\\/==\\\\        \n     / |  \\\\==||  \\\\==\\\\   ///\n    *  ||-|==||   \\\\==\\\\/==/ \n       ~~ ///~~     \\\\===/  \n      Gallifreyan Cow      \n"
+    },
+    "Straight out of Cowllege": {
+      "prefix": "moo::Straight out of Cowllege",
+      "body": "\n       ________   ------\n         |__| |   |====|\n         (oo) *   |   v|\n  /-------\\\\/      |~~ *|\n / |     ||       ------\n*  ||----||             \n   ~~    ~~             \n"
+    },
+    "Cow-a-flower": {
+      "prefix": "moo::Cow-a-flower",
+      "body": "\n         (__)              \n         (oo)              \n  /-------\\\\/               \n / |     ||                \n*  ||----||\\\\               \n   ~~    ~~ \\\\              \n             \\\\             \n              |            \n              |            \n              |            \n              |            \n              |            \n  ___________\\\\|/___________\n"
+    },
+    "Cow at butcher's party": {
+      "prefix": "moo::Cow at butcher's party",
+      "body": "\n#         #               \n\\\\\\\\\\\\       //               \n \\\\\\\\\\\\     //                \n  \\\\ --- /                 \n  |     |                 \n  |     |                 \n  |     |                 \n  / \\\\_/  \\\\        (__)    \n //      \\\\\\\\\\\\    <--(xx)--#-\n//        \\\\\\\\\\\\       /\\\\     \n"
+    },
+    "Cow in a haggis": {
+      "prefix": "moo::Cow in a haggis",
+      "body": "\n      ___--------___     \n     / .    .   .   \\\\    \n|\\\\/   .    (__)    .  \\\\/|\n|| .    .  (oo) .   .  ||\n|/\\\\   .     \\\\/    .   /\\\\|\n    \\\\___ .    .  ___/    \n        ---------        \n"
+    },
+    "Cow on top of Ben Nevis": {
+      "prefix": "moo::Cow on top of Ben Nevis",
+      "body": "\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n~~~~~~~~~~~~~~~~~~~oo~~~~~~~~~~~~\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"
+    },
+    "Cow-pooling": {
+      "prefix": "moo::Cow-pooling",
+      "body": "\n        ___________________________        \n       | (__)  (__)  (__)   (__)  |        \n       | ( oo  ( oo  ( oo   ( oo  |        \n_______| /\\\\_|  /\\\\_|  /\\\\_|   /\\\\_|  |________\n|                                         |\n|   _____                        _____    |\n|___|   |________________________|   |____|\n    |___|                        |___|     \n"
+    },
+    "Rollerscating cow": {
+      "prefix": "moo::Rollerscating cow",
+      "body": "\n*        (__)\n \\\\       (oo)\n  \\\\-------\\\\/ \n   |     ||  \n   ||----||  \n  (oo)  (oo) \n"
+    },
+    "Cow perched on a tree": {
+      "prefix": "moo::Cow perched on a tree",
+      "body": "\n |    |                 \n |    |            (__) \n |    |            (oo) \n |    |     /-------\\\\/  \n |    |    / |     ||   \n |    |   *  ||----||   \n |    \\\\______^^____^^___\n |     _________________\n |    /                 \n |    |                 \n |    |                 \n |    |                 \n |    |                 \n |    |                 \n |    |                 \n |    |                 \n/      \\\\                \n"
+    },
+    "Cow attempting to fly off tree": {
+      "prefix": "moo::Cow attempting to fly off tree",
+      "body": "\n |    |           *             \n |    |            \\\\       (__) \n |    |             \\\\      (oo) \n |    |          -----------\\\\/--\n |    |          ----|      |---\n |    |              --------   \n |    \\\\_________________        \n |     _________________        \n |    /                         \n |    |                         \n |    |                         \n |    |                         \n |    |                         \n |    |                         \n |    |                         \n |    |                         \n/      \\\\                        \n"
+    },
+    "The attempt results in an udder disaster": {
+      "prefix": "moo::The attempt results in an udder disaster",
+      "body": "\n |    |                                    \n |    |                                    \n |    |                                    \n |    |                                    \n |    |                                    \n |    \\\\_________________                   \n |     _________________                   \n |    /                                    \n |    |                                    \n |    |                                    \n |    |                                    \n |    |                                    \n |    |                                    \n |    |                                (__)\n |    |                      *---------(..)\n/      \\\\                        ^^----^^\\\\/ \n"
+    },
+    "The cow that jumped over the moon": {
+      "prefix": "moo::The cow that jumped over the moon",
+      "body": "\n.            /\\\\         .       .  \n      .     /  \\\\      .          . \n           /    \\\\   .        .    *\n          /      \\\\              *  \n          | (__) |   .    .   **   \n   .     /| (oo) |\\\\           **   \n        / | /\\\\/\\\\ | \\\\   .     . *   \n    .  /  |=|==|=|  \\\\     .      * \n   . /    | |  | |    \\\\  .         \n    / USA | ^||^ |NASA \\\\     .     \n   |______|  ^^  |______|       .  \n  .       (__||__)     .   .       \n     .    /_\\\\  /_\\\\  .     .    .   \n          !!!  !!!                 \n"
+    },
+    "Hamburger": {
+      "prefix": "moo::Hamburger",
+      "body": "\n        (__)\n        (xx)\n __------\\\\/ \n* ||____||  \n / |    |\\\\  \n"
+    },
+    "Flying Cow": {
+      "prefix": "moo::Flying Cow",
+      "body": "\n*        (__)\n \\\\       (oo)\n  \\\\-------\\\\/ \n 8-|     ||  \n   ||----||  \n   ^^    ^^  \n"
+    },
+    "Cow surviving attack by Red Baron": {
+      "prefix": "moo::Cow surviving attack by Red Baron",
+      "body": "\n       ...---...       \n    ../  / | \\\\  \\\\..    \n  ./ /  /  |  \\\\  \\\\ \\\\.  \n /  /   /  |  \\\\   \\\\  \\\\ \n/  /   /   |   \\\\   \\\\  \\\\\n^^^^^^^^^^^^^^^^^^^^^^^\n\\\\          |          /\n \\\\         |         / \n  \\\\        |        /  \n   \\\\       |       /   \n    \\\\      |      /    \n     \\\\     |     /     \n      \\\\    |    /      \n       \\\\   |   /       \n        \\\\  |  /        \n         \\\\ | /(__)     \n          \\\\|/ (oo)     \n       /---++--\\\\/      \n      / |  || ||       \n     *  ||-++-||       \n        ^^    ^^       \n"
+    },
+    "Elvis's Cow": {
+      "prefix": "moo::Elvis's Cow",
+      "body": "\n              ..---..             \n             /       \\\\            \n             |  RIP  |            \n             |       |            \n             |       |            \n             |       |            \n             |       |            \n\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\/////////////////\n"
+    },
+    "David Copperfield's Cow": {
+      "prefix": "moo::David Copperfield's Cow",
+      "body": "\n               (__)\n               (oo)\n  /---+      +--\\\\/ \n / |  |      | ||  \n*  ||-+      +-||  \n   ^^          ^^  \n"
+    },
+    "Barnum's Troupe of performing cows": {
+      "prefix": "moo::Barnum's Troupe of performing cows",
+      "body": "\n                       (__)               \n                       (oo)               \n                /-------\\\\/                \n               / |     ||                 \n              *  ||----||                 \n                 ^^    ^^                 \n                (__)  (__)                \n                (oo)  (oo)                \n         /-------\\\\/    \\\\/-------\\\\         \n        / |     || -^^- ||     | \\\\        \n       *  ||----   -^^-       ||  *       \n          ^^                  ^^          \n         (__)                (__)         \n         (oo)                (oo)         \n  /-------\\\\/                  \\\\/-------\\\\  \n / |     ||                    ||     | \\\\ \n*  ||----||                    ||----||  *\n   ^^    ^^                    ^^    ^^   \n"
+    },
+    "Cow licenced to kill": {
+      "prefix": "moo::Cow licenced to kill",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / | 007 ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Enemy Cow after having met previous cow": {
+      "prefix": "moo::Enemy Cow after having met previous cow",
+      "body": "\n _--------_       \n|__________|   BIG\n XXXXXXXXXX    MAC\n __________       \n|_        _|      \n  --------        \n"
+    },
+    "The cow that didn't jump over the moon": {
+      "prefix": "moo::The cow that didn't jump over the moon",
+      "body": "\n                      !                                    \n                      !                                    \n                      ^                                    \n                     / \\\\                                   \n                    /___\\\\                                  \n                   |=   =|                                 \n                   |     |                                 \n                   |     |                                 \n                   |     |                                 \n                   |     |                                 \n                   |     |                                 \n                   |     |                                 \n                   |     |                                 \n                   |     |                                 \n                   |     |                                 \n                  /|##!##|\\\\                                \n                 / |##!##| \\\\                               \n                /  |##!##|  \\\\                              \n               |  / ^ | ^ \\\\  |                             \n               | /  ( | )  \\\\ |                             \n               |/   ( | )   \\\\|                             \n                   ((   ))                                 \n                  ((  :  ))                                \n                  ((  :  ))                                \n                   ((   ))                                 \n                    (( ))                                  \n                     ( )                                   \n                      .                         *          \n                      .                                    \n                             _           _           *     \n                       *     \\\\\\\\\\\\ *=      //                 \n                              \\\\\\\\\\\\    =* //                  \n                    *     *                ( __ )          \n                                 * * *  . _ (oo)          *\n                     // *= *=   * BOOM *     ()            \n                    //   *=      * * *           ==* \\\\\\\\\\\\    \n ________________________________________________ = * \\\\\\\\\\\\   \n  ==============================================           \n //        //           !!           \\\\\\\\\\\\        \\\\\\\\\\\\          \n//        //            ||            \\\\\\\\\\\\        \\\\\\\\\\\\         \n"
+    },
+    "Mrs. O'Leary's Cow": {
+      "prefix": "moo::Mrs. O'Leary's Cow",
+      "body": "\n       (__)                    \n       (oo)    o     /| /|/|_  \n      / \\\\/    /    /      _ /  \n     /  _\\\\===^   ___\\\\_____/___ \n ___|__/ |/\\\\    (___________(_)\n*        ^ ^                   \n"
+    },
+    "Cow'nt Dracula": {
+      "prefix": "moo::Cow'nt Dracula",
+      "body": "\n   (__)  \n   (oo)  \n  /'^^^-m\n / '' ` )\n|      /|\n|  |  | |\n|_____|_|\n //|| || \n*  ww ww \n"
+    },
+    "Cow w/ Glasses": {
+      "prefix": "moo::Cow w/ Glasses",
+      "body": "\n        (__)\n        (00)\n  /------\\\\/ \n /|     ||  \n* ||----||  \n"
+    },
+    "Flirtatious cow (winking)": {
+      "prefix": "moo::Flirtatious cow (winking)",
+      "body": "\n        (__)\n        (-o)\n  /------\\\\/ \n /|     ||  \n* ||----||  \n"
+    },
+    "Cow after pulling an all-nighter": {
+      "prefix": "moo::Cow after pulling an all-nighter",
+      "body": "\n        (__)       (----------)\n        (--) . . . ( *>YAWN<* )\n  /------\\\\/        (----------)\n /|     ||                     \n* ||----||                     \n"
+    },
+    "Cow walking": {
+      "prefix": "moo::Cow walking",
+      "body": "\n*        (__)\n \\\\       (oo)\n  \\\\-------\\\\/ \n  /|      |\\\\ \n //||----||\\\\\\\\\\\\\n ^ ^^    ^^ ^\n"
+    },
+    "Cow jogging": {
+      "prefix": "moo::Cow jogging",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / /      \\\\  \n* //------\\\\\\\\\\\\ \n  ^        ^ \n"
+    },
+    "Same cow jogging": {
+      "prefix": "moo::Same cow jogging",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / \\\\      /  \n*   \\\\\\\\\\\\--//   \n     ^  ^    \n"
+    },
+    "Cow braking": {
+      "prefix": "moo::Cow braking",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / \\\\      \\\\  \n*   \\\\\\\\\\\\----\\\\\\\\\\\\ \n     ^     ^ \n"
+    },
+    "Cow marching": {
+      "prefix": "moo::Cow marching",
+      "body": "\n      (__)      \n      (oo)      \n       \\\\/       \n   ____| \\\\____  \n   ---/   --**  \n*____/    |___//\n    //--------/ \n   //__         \n"
+    },
+    "Cow pooing": {
+      "prefix": "moo::Cow pooing",
+      "body": "\n  o       *     (__)\n / \"      |     (oo)\n(__ o=o=o=|------\\\\/ \n          |      |  \n          ||----||  \n          ^^    ^^  \n"
+    },
+    "Side (right)": {
+      "prefix": "moo::Side (right)",
+      "body": "\n(__)\n( oo\n/\\\\_|\n"
+    },
+    "Front": {
+      "prefix": "moo::Front",
+      "body": "\n(__)\n(oo)\n/\\\\/\\\\\n"
+    },
+    "Side (left)": {
+      "prefix": "moo::Side (left)",
+      "body": "\n(__)\noo )\n|_/\\\\\n"
+    },
+    "Back": {
+      "prefix": "moo::Back",
+      "body": "\n(__)\n(  )\n/  \\\\\n"
+    },
+    "Where's all the bulls!": {
+      "prefix": "moo::Where's all the bulls!",
+      "body": "\n    (___)  Where's all the bulls!\n    (O O)/                       \n^  _/\\\\ /\\\\_  ^                    \n\\\\\\\\\\\\/   O   \\\\//                    \n"
+    },
+    "Dairy-Air ": {
+      "prefix": "moo::Dairy-Air ",
+      "body": "\n (__) \n (  ) \n( /* )\n |  | \n ^  ^ \n"
+    },
+    "East Indian Cow": {
+      "prefix": "moo::East Indian Cow",
+      "body": "\n          __ \n         (__)\n         (__)\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Injun Cow": {
+      "prefix": "moo::Injun Cow",
+      "body": "\n        o oo o\n         \\\\||/ \n         (__) \n         (oo) \n  /-------\\\\/  \n / |     ||   \n*  ||----||   \n   ^^    ^^   \n"
+    },
+    "Cash Cow": {
+      "prefix": "moo::Cash Cow",
+      "body": "\n         (___)\n         (o o)\n  /\\\\$\\\\$\\\\$\\\\$\\\\$\\\\$\\\\$\\\\ / \n / \\\\$\\\\$\\\\$\\\\$\\\\$\\\\$\\\\$|O  \n*  ||w---||   \n   ^^    ^^   \n"
+    },
+    "Orville Redencow": {
+      "prefix": "moo::Orville Redencow",
+      "body": "\n              (___)\n              (o o)\n  /------------\\\\ / \n / |           #-# \n*  |         |||   \n   ||--------|||   \n   ^^         ^^   \n"
+    },
+    "The Bakker Cows": {
+      "prefix": "moo::The Bakker Cows",
+      "body": "\n                                           (       )\nPRISON#  #  #  #  #                         ||| ||| \n#  #  #  #  #(_#) #                         (O   O) \n#  #  #  #  #(o#) #             /------------\\\\___/  \n#  #/-#--#--#-\\\\#  #            / |           |||    \n#  # |#  #  #||#  #           /  ||          |||    \n# *# |#--#--#||#  #          *   ||----------|||    \n#  # ^#  #  #^^#  #              ^^           ^^    \n"
+    },
+    "CompuCow": {
+      "prefix": "moo::CompuCow",
+      "body": "\n      (__)              \n    /   oo      ______  \n   |  /\\\\_|     |      \\\\ \n   |  |___     |       |\n   |   ---@    |_______|\n*  |  |   ----   |    | \n \\\\ |  |_____            \n  \\\\|________|           \n"
+    },
+    "CompuCow After an All-niter": {
+      "prefix": "moo::CompuCow After an All-niter",
+      "body": "\n         (__)              \n       /   @@      ______  \n      |  /\\\\_|     |      \\\\ \n      |  |___     |       |\n      |   ---@    |_______|\n      |  |   ----   |    | \n      |  |_____            \n*____/|________|           \n"
+    },
+    "CompuCow Asleep at the Keyboard": {
+      "prefix": "moo::CompuCow Asleep at the Keyboard",
+      "body": "\n         (__)                \n       /   --      ______    \n      |  /\\\\_|     |      \\\\   \n      |  |___     |       |  \n      |   ---@    |_______|  \n      |  |   ----   |    |   \n      |  |_____              \n*____/|________|             \n"
+    },
+    "CompuCow Discovers Bug in Compiler": {
+      "prefix": "moo::CompuCow Discovers Bug in Compiler",
+      "body": "\n      (__)              \n    /  .\\\\/.     ______  \n   |  /\\\\_|     |      \\\\ \n   |  |___     |       |\n   |   ---@    |_______|\n*  |  |   ----   |    | \n \\\\ |  |_____            \n  \\\\|________|           \n"
+    },
+    "B-2 Stealth Bomber cow": {
+      "prefix": "moo::B-2 Stealth Bomber cow",
+      "body": "\n \\\\\\\\\\\\         \n  \\\\\\\\\\\\        \n  / \\\\       \n /   \\\\      \n \\\\    \\\\     \n  \\\\    \\\\(__)\n*-->    (oo)\n  /    / \\\\/ \n /    /     \n \\\\   /      \n  \\\\ /       \n  //        \n //         \n"
+    },
+    "Stealth cow on bombing run": {
+      "prefix": "moo::Stealth cow on bombing run",
+      "body": "\n     \\\\\\\\\\\\         \n      \\\\\\\\\\\\        \n      / \\\\       \n     /   \\\\      \n     \\\\    \\\\     \n      \\\\    \\\\(__)\n    *-->    (oo)\n    o /    / \\\\/ \n     /    /     \n o   \\\\   /      \n      \\\\ /       \n      //        \no    //         \n"
+    },
+    "Chopin'ing Cow": {
+      "prefix": "moo::Chopin'ing Cow",
+      "body": "\n  ___                          \n /   \\\\       (    )   Happy    \n|     \\\\       |--|    Mooosic! \n|      |      \\\\  /__           \n+----------+ __oo| \\\\           \n|Steinway &|_  \\\\/|  |          \n|___ Sons ___|_/ |__|          \n|   |        |   / /           \no   o        o  | |            \n"
+    },
+    "TeX cow": {
+      "prefix": "moo::TeX cow",
+      "body": "\n         (__)\n         (oo)\n  /      -\\\\/ \n /       ||  \n*  ------||  \n   |     ^^  \n   ||----    \n   ^^        \n"
+    },
+    "Steve Martin's cow": {
+      "prefix": "moo::Steve Martin's cow",
+      "body": "\n         (__)     \n    >----(oo)---->\n  /-------\\\\/      \n / |     ||       \n*  ||----||       \n   ^^    ^^       \n"
+    },
+    "COW-ASAKI": {
+      "prefix": "moo::COW-ASAKI",
+      "body": "\n                      (__)      \n                      (oo)      \n       ______    ______\\\\/       \n    __|______\\\\__/____/\\\\\\\\\\\\[}      \n   /   ---             \\\\\\\\\\\\ ---   \n|[]  /     \\\\ \\\\      /   /     \\\\ \n    |   @   | \\\\____/   |   @   |\n     \\\\     /            \\\\     / \n       ---                ---   \n"
+    },
+    "Cows behind bars": {
+      "prefix": "moo::Cows behind bars",
+      "body": "\n    +=============================+    \n    |  F R E D ' S   S A L O O N  |    \n(__)|          +-----+            |    \n(xx)|          | ___ |            |(__)\n \\\\/ |          |/=|=\\\\|            |(oo)\n    |          |==|==|            | \\\\/ \n    |          |==|==|            |    \n------------------------------------   \n"
+    },
+    "Dreaming Cow": {
+      "prefix": "moo::Dreaming Cow",
+      "body": "\n                 __ _________    \n                (  V  _   _  )_  \n                /    ( \\\\o/ )   ) \n               (      \\\\_O_/    \\\\ \n                \\\\      /O\\\\      )\n                 (    @   @    / \n                  (_____/\\\\____)  \n                       o         \n                      o          \n                    o            \n                (__)             \n           /----(uu)             \n       *__/|     \\\\o==s           \n/\\\\(* \\\\| __ \\\\\\\\\\\\----==s  \\\\))        \n     |/))*  | \\\\   )*\\\\||/))//     \n            ~  ~\\\\/--\\\\*)          \n"
+    },
+    "Cow Dreaming of Silage": {
+      "prefix": "moo::Cow Dreaming of Silage",
+      "body": "\n                 __ _________    \n                (  V         )_  \n                /     ////     ) \n               (     (---)     \\\\ \n                \\\\    |moo|      )\n                 (   (---)     / \n                  (_____/\\\\____)  \n                       o         \n                      o          \n                    o            \n                (__)             \n           /----(uu)             \n       *__/|     \\\\o==s           \n/\\\\(* \\\\| __ \\\\\\\\\\\\----==s  \\\\))        \n     |/))*  | \\\\   )*\\\\||/))//     \n            ~  ~\\\\/--\\\\*)          \n"
+    },
+    "Cow blowing bubbles": {
+      "prefix": "moo::Cow blowing bubbles",
+      "body": "\n         (__)      o   o\n         (oo)     o  o  \n  /-------\\\\/==o  o      \n / |     ||  ____       \n*  ||----||  |__|       \n   ~~    ~~             \n"
+    },
+    "Cow kicking over lantern that started the Great Chicago Fire of 1885": {
+      "prefix": "moo::Cow kicking over lantern that started the Great Chicago Fire of 1885",
+      "body": "\n   *        (__)\n    \\\\       (OO)\n     \\\\-------\\\\/ \n []   |     ||  \n(/\\\\)s==|----||  \n/__\\\\   ~    ~~  \n"
+    },
+    "COW-TOW": {
+      "prefix": "moo::COW-TOW",
+      "body": "\n               __//     \\\\__                \n       /^^^)^^/   )     (   \\\\^^(^^^\\\\       \n      /(    _(  ^/       \\\\^  )_    )\\\\      \n     /  \\\\ //  | /         \\\\ |  \\\\ /  \\\\      \n    /    \\\\   O/           \\\\O   //    \\\\     \n   (    )/\\\\                   //\\\\(    )    \n   /\\\\  //                         \\\\  /\\\\    \n  / / /W                           W\\\\ \\\\ \\\\  \n*  \\\\(                               )/  *  \n     \\\\_                           _//      \n ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ \n"
+    },
+    "Cow after learning that the vice president has a lower IQ than he does": {
+      "prefix": "moo::Cow after learning that the vice president has a lower IQ than he does",
+      "body": "\n     |\\\\__|\\\\     \n     | 00 |     \n\\\\---<( -- )>---/\n \\\\    |--|    / \n  \\\\__/    \\\\--/  \n    (      )    \n    |      |    \n    --------    \n     ||  ||     \n     nn  nn     \n"
+    },
+    "Cownting... ": {
+      "prefix": "moo::Cownting... ",
+      "body": "\n(__)     (__)         (__) (__)     \n(oo)  +  (oo)      =  (oo) (oo)     \n \\\\/       \\\\/           \\\\/   \\\\/      \n                                    \n(__)     (__)(__)     (__) (__) (__)\n(oo)  +  (oo)(oo)  =  (oo) (oo) (oo)\n \\\\/       \\\\/  \\\\/       \\\\/   \\\\/   \\\\/ \n"
+    },
+    "This cow plays hockey": {
+      "prefix": "moo::This cow plays hockey",
+      "body": "\n            (__,    \n            (+o)    \n /-----#-----\\\\'     \n/ | Cownucks||  \\\\   \n  }}--------}}   \\\\ o\n  ==        ==    --\n"
+    },
+    "Ech-cow": {
+      "prefix": "moo::Ech-cow",
+      "body": "\n                                                               /.               \n                                                         moo  /`'\\\\  .           \n             (__)   MOO!                                   ` /    ./ \\\\..        \n             (oo)  /                                      ../   .'      \\\\.      \n      /-------\\\\/                                       ../    /    ../    \\\\     \n     / |     ||                                      ./     ./   ./        \\\\    \n    *  ||----||                                    ./     ./            \\\\   \\\\.  \n-------^^----^^-----   &                        .../    ../       ../          \\\\\n                    \\\\                         /       /         /               \n"
+    },
+    "Mr Spock's cow": {
+      "prefix": "moo::Mr Spock's cow",
+      "body": "\n                 ________________  \n         ^__^   /                \\\\ \n         (oo)  ( Milk is logical. )\n  /-------\\\\/ --'\\\\________________/ \n / |     ||                        \n*  ||W---||                        \n   ^^    ^^                        \n"
+    },
+    "COW JOYRIDES": {
+      "prefix": "moo::COW JOYRIDES",
+      "body": "\n              (__)                       \n              (--)s ---mmmmoooooooOOOOOO!\n            __ \\\\O//                      \n           /   ==s)\\\\_____                \n       *--/|_/-----/    OO               \n           |__       __ II               \nO O o  o   /  \\\\-----/  \\\\                 \n           \\\\__/     \\\\__/                 \n"
+    },
+    "The Milky Way": {
+      "prefix": "moo::The Milky Way",
+      "body": "\n  *             .                 .    ,                \n       .           .     *        .      .              \n                 .                                 *    \n      \\\\   /         ,        (__)   ,       ,           \n    -   *   -                (       .      |           \n  .   /   \\\\     ,       .     \\\\/     .        -   -    .\n     .                       / \\\\\\\\\\\\        ,      |       \n    ,      *         *      /   /\\\\\\\\\\\\                     \n               .           /\\\\\\\\\\\\ /       .           .    \n      *           .       /   \\\\\\\\\\\\             .         .\n_|_    ,   .    ,        /           ,      *           \n |  .     ,       .     *        , .           .        \n   .    ,     .         .            .  *          .    \n"
+    },
+    "COW-OPERATION": {
+      "prefix": "moo::COW-OPERATION",
+      "body": "\n                      \\\\  /         ________________________________ \n                       \\\\/         /                                \\\\\n               (__)    /\\\\         |    At times likes these you    |\n               (oo)   O  O        | REALLY CoVet a proper surgeon! |\n               _\\\\/_   //        O \\\\________________________________/\n         *    (    ) //       O                                     \n          \\\\  (\\\\\\\\\\\\    //       o                                      \n           \\\\(  \\\\\\\\\\\\    )      o                                       \n            (   \\\\\\\\\\\\   )   /\\\\                                         \n  ___[\\\\______/^^^^^^^\\\\__/) o-)__                                    \n |\\\\__[=======______//________)__\\\\                                   \n \\\\|_______________//____________|                                   \n     |||      || //||     |||                                       \n     |||      || @.||     |||                                       \n      ||      \\\\/  .\\\\/      ||                                       \n                 . .                                                \n                '.'.`                                               \n"
+    },
+    "Cocown": {
+      "prefix": "moo::Cocown",
+      "body": "\n (__) \n (oo) \n /\\\\/\\\\ \n(\\\\==/)\n \\\\<>/ \n"
+    },
+    "Buddha's Cow": {
+      "prefix": "moo::Buddha's Cow",
+      "body": "\n (___)      /^^^^^\\\\\n /- -\\\\     /  MU  /\n(  ^  ) __/______/ \n \\\\_O_/             \n"
+    },
+    "Cow after one too many Pan-Galactic Gargle Blasters": {
+      "prefix": "moo::Cow after one too many Pan-Galactic Gargle Blasters",
+      "body": "\n   (_                 ~         -       _)             /       ~    \n          (           -                        -               |  =s\nO                               |            *                      \n                  |           O        \\\\      \\\\       -  |          \n             |                                   \\\\               |  \n        -                    -                |                     \n)                                                                   \n"
+    },
+    "Boneless Cow": {
+      "prefix": "moo::Boneless Cow",
+      "body": "\n(__) _______________* \n(xx)-\\\\           \\\\    \n \\\\/ /-\\\\___________\\\\--\\\\\n"
+    },
+    "No leg cow (ground beef)": {
+      "prefix": "moo::No leg cow (ground beef)",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / |     |   \n*  ------    \n"
+    },
+    "Two leg cow (lean beef)": {
+      "prefix": "moo::Two leg cow (lean beef)",
+      "body": "\n   ---_        \n  /|   \\\\       \n / |\\\\   \\\\_ (__)\n*  ||\\\\     (oo)\n   ~~ \\\\____ \\\\/ \n"
+    },
+    "The dreaded cowtapult": {
+      "prefix": "moo::The dreaded cowtapult",
+      "body": "\n                                 (__)             \n                                 (oo)             \n                                  \\\\/              \n                           /     / \\\\\\\\\\\\             \n                                /   /\\\\\\\\\\\\           \n                               /\\\\\\\\\\\\ /              \n                    /         /   \\\\\\\\\\\\              \n                             /                    \n                       /    *                     \n                 |\\\\                               \n           /     |  \\\\         /                   \n                 \\\\\\\\\\\\   \\\\                           \n           /       \\\\\\\\\\\\   \\\\                         \n      /              \\\\\\\\\\\\___\\\\                       \n            /          \\\\\\\\\\\\                         \n               /         \\\\\\\\\\\\                       \n /    /           /        \\\\\\\\\\\\                     \n            /                \\\\\\\\\\\\                   \n        /         /            \\\\\\\\\\\\                 \n              /                  \\\\\\\\\\\\               \n                   /               \\\\\\\\\\\\             \n                                     \\\\\\\\\\\\           \n       ===============================O===========\n       ===========================================\n        O)                                      O)\n"
+    },
+    "Stick Cow sunbathing at Malibu wearing a special cow bikini": {
+      "prefix": "moo::Stick Cow sunbathing at Malibu wearing a special cow bikini",
+      "body": "\n      \\\\___/     \n      (0 0)     \n       \\\\ /      \n        v       \n        |       \n<-------|-------\n        |       \n        |       \n      __|__     \n      \\\\/ \\\\/     \n      \\\\/ \\\\/     \n      \\\\/ \\\\/     \n      __|__     \n      \\\\   /     \n      |\\\\ /|     \n      | V |     \n      |   |     \n      |   |     \n      W   W     \n"
+    },
+    "Cows doin' it (FRONT VIEW)": {
+      "prefix": "moo::Cows doin' it (FRONT VIEW)",
+      "body": "\n (__) \n (__) \n (oo) \n| \\\\/ |\n |  | \n"
+    },
+    "Cows doin' it (BACK VIEW)": {
+      "prefix": "moo::Cows doin' it (BACK VIEW)",
+      "body": "\n (__) \n (  ) \n(  /*)\n||  ||\n"
+    },
+    "Cows doin' it (TOP VIEW)": {
+      "prefix": "moo::Cows doin' it (TOP VIEW)",
+      "body": "\n(___) \n(___) \n(   ) \n|   | \n|   | \n(___) \n   \\\\_*\n"
+    },
+    "Cow during an Earthquake": {
+      "prefix": "moo::Cow during an Earthquake",
+      "body": "\n**       ((__))\n \\\\\\\\\\\\      ((oo))\n  \\\\\\\\\\\\------\\\\\\\\\\\\// \n   ||      ||  \n   |||----|||  \n   ^^^    ^^^  \n"
+    },
+    "\"Moo-vie Camera\"": {
+      "prefix": "moo::\"Moo-vie Camera\"",
+      "body": "\n          ((     _  _      \n         ( D\\\\   (_)(_)____ \n   _______\\\\__| | MOOTV____(\n  /|     ||   _/\\\\____/     \n / ||____| \\\\/^   /  \\\\      \n*  ||    |      O    O     \n   ^^    ^                 \n"
+    },
+    "Romie mooed... while Julie ate (The Bard's barnyard inspirations)": {
+      "prefix": "moo::Romie mooed... while Julie ate (The Bard's barnyard inspirations)",
+      "body": "\n         (___)              (__)          \n         (0 0)              (oo)          \n  /-------\\\\_O---moo        *-\\\\/-------\\\\   \n / |     ||               /  ||      |  \\\\ \n*  ||,---||              *   ||-----||   *\n   ^^    ^^               \\\\/|(/)(/\\\\(,,/   \n"
+    },
+    "\"The Moo-vers are here!\"": {
+      "prefix": "moo::\"The Moo-vers are here!\"",
+      "body": "\n                       ______________________________________________________  \n                      |                                                      | \n             _______  |                                                      | \n            / _____ | |                       ACME MOO-VERS                  | \n           / /(__) || |                                                      | \n  ________/ / |OO| || |                                                      | \n |         |-------|| |                                                      | \n(|         |     -.|| |_______________________                               | \n |  ____   \\\\       ||_________||____________  |             ____      ____   | \n/| / __ \\\\   |______||     / __ \\\\   / __ \\\\   | |            / __ \\\\    / __ \\\\  |\\\\\n\\\\|| /  \\\\ |_______________| /  \\\\ |_| /  \\\\ |__| |___________| /  \\\\ |__| /  \\\\ |_|/\n   | () |                 | () |   | () |                  | () |    | () |    \n    \\\\__/                   \\\\__/     \\\\__/                    \\\\__/      \\\\__/     \n"
+    },
+    "Roller Cow ": {
+      "prefix": "moo::Roller Cow ",
+      "body": "\n         -- (__)\n  *---    - (QQ)\n  -   \\\\------\\\\/ \n---   |      |  \n  -   ||()--||  \n      oo    oo  \n"
+    },
+    "Cows in polonaise": {
+      "prefix": "moo::Cows in polonaise",
+      "body": "\n*        (__)*        (__)*        (__)*        (__)\n \\\\       (oo) \\\\       (oo) \\\\       (oo) \\\\       (o-)\n  \\\\-------\\\\/ ^^\\\\-------\\\\/ ^^\\\\-------\\\\/ ^^\\\\-------\\\\/ \n   |        //  |        //  |        //  |     ||  \n   ||------+    ||------+    ||------+    ||----||  \n   ^^           ^^           ^^           ^^    ^^  \n"
+    },
+    "Cow from Vulcan": {
+      "prefix": "moo::Cow from Vulcan",
+      "body": "\n         |\\\\/| \n         (oo) \n  /-------\\\\/ V\n / |     ||__|\n*  ||----|    \n   ^^    ^    \n"
+    },
+    "Smoking 1-eyed cow": {
+      "prefix": "moo::Smoking 1-eyed cow",
+      "body": "\n          {___}\n          ( * )\n  /--------\\\\Q/ \n / |      ||   \n*  ||-----||   \n   --     --   \n"
+    },
+    "Cow w/ rabbit ears": {
+      "prefix": "moo::Cow w/ rabbit ears",
+      "body": "\n         \\\\    /\n          \\\\__/ \n          (--) \n  /--------\\\\/  \n / |     ||    \n*  ||----||    \n   --    --    \n"
+    },
+    "Milkael Cowbachev": {
+      "prefix": "moo::Milkael Cowbachev",
+      "body": "\n  ____  \n\\\\/ *  \\\\/\n| O  O |\n \\\\    / \n  \\\\**/  \n   --   \n"
+    },
+    "Cows having candlelight dinner": {
+      "prefix": "moo::Cows having candlelight dinner",
+      "body": "\n                        (*)                  (*)                       \n   (__)                  ^                    ^                (__)    \n   (oo)                  |      |             |               @(oo)@   \n   [..]                  |      =             |                [..]@@  \n\\\\ |  U           (-)     |     | |            | (-)             U  @@@@\n ||   ==<_\\\\=====/_|______=_____|=|____________=__|____\\\\====/_>==   ||  \n ||   )  ||||||||||||||||||||||||||||||||||||||||||||||||||||  (   ||  \n ||___)==||||||||||||||||||||||||||||||||||||||||||||||||||||==(___||  \n |\\\\====| |||||||||||||||||||||||||||||||||||||||||||||||||||| |====/|  \n |  \\\\  |     |                                          |     |  /  |  \n =   * =     =                                          =     = *   =  \n"
+    },
+    "Haute Cowture": {
+      "prefix": "moo::Haute Cowture",
+      "body": "\n( ** )                   \n|e  e|                   \n \\\\  / ____*===*______*   \n  OO      * Givenchy *\\\\  \n    |    *     *    *  \\\\ \n   /****************    *\n  //  *************      \n ||    ||     \\\\_/||      \n ||    ||     || ||      \n v|    v|     v| v|      \n"
+    },
+    "COWNT": {
+      "prefix": "moo::COWNT",
+      "body": "\n   (___)   \n   (o o)   \n  __\\\\_/__  \n //^^*^^\\\\  \n /   *   \\\\ \n/ |  *  | \\\\\n\\\\ |=====| /\n \"|_____|\" \n   | | |   \n   | | |   \n   |_|_|   \n    ^ ^    \n"
+    },
+    "Cow exclaiming \"Holy Cow\"": {
+      "prefix": "moo::Cow exclaiming \"Holy Cow\"",
+      "body": "\n\\\\___/\n(O O)\n \\\\ / \n  O  \n"
+    },
+    "Cowazaki": {
+      "prefix": "moo::Cowazaki",
+      "body": "\n  *              \n  |        (__)  \n  |      __(oo)  \n   \\\\=====  |\\\\/   \n  _|_/     \\\\_    \n  -//\\\\-----/\\\\\\\\\\\\   \n   \\\\_/     \\\\_/   \n-----------------\n"
+    },
+    "COW-WARD": {
+      "prefix": "moo::COW-WARD",
+      "body": "\n                 |\\\\                                     \n                 |[]         |\\\\                         \n            (__) |           |[]         |\\\\             \n            (--) |      (__) |           |[]         |\\\\ \n    _________\\\\/ /|      (o-) |      (__) |           |[]\n   /,,      ,, /_|_______\\\\/ /|      (oo) |      (__) |  \n*--------------/,,      ,, /_|_______\\\\/ /|      (OO) |  \n|           *--------------/,,      ,, /_|_______\\\\/ /|  \n|===========|           *--------------/,,      ,, / |  \no           |===========|           *----------------|  \n            o           |===========|                |  \n                        o           |================|  \n                                    o                o  \n"
+    },
+    "Two cows COW-ngratulating a bull": {
+      "prefix": "moo::Two cows COW-ngratulating a bull",
+      "body": "\n      ______________________________           \n     /                              \\\\          \n    (  Freisian a jolly good fellow! )         \n     \\\\________________  ____________/          \n                      ) )                      \n               (__)   //                       \n         (__)  (oo)  /          (___)          \n        /(oo)---\\\\/              (o o)          \n  /-------\\\\/   ||                \\\\ /-------\\\\   \n / |     ||----||                 O||     | \\\\  \n*  ||----||    ^^                  ||---,||  * \n   ^^    ^^                        ^^    ^^    \n"
+    },
+    "Ayatollah Cow-manhi": {
+      "prefix": "moo::Ayatollah Cow-manhi",
+      "body": "\n            ()  \n           (  ) \n          ( __ )\n           (oo) \n  /-------/|||| \n / |     || ||| \n*  ||----||  |  \n   ^^    ^^     \n"
+    },
+    "Network Virtual Cow (with separate frontend and backend)": {
+      "prefix": "moo::Network Virtual Cow (with separate frontend and backend)",
+      "body": "\n  /--------------------/             \n / |     ||           /          (__)\n*  ||----||          /-----------(oo)\n   ^^    ^^                       \\\\/ \n"
+    },
+    "Cow waterskiing": {
+      "prefix": "moo::Cow waterskiing",
+      "body": "\n         (__)   \n         (oo)   \n  /-------\\\\/    \n / |     ||---->\n*  ||----||     \n  ___/  ___/    \n"
+    },
+    "Cowcatcher (Major league)": {
+      "prefix": "moo::Cowcatcher (Major league)",
+      "body": "\n        |====|\n         \\\\oo/ \n  /-------\\\\/  \n / |     ||   \n*  ||----||   \n   ^^    ^^   \n"
+    },
+    "Sacred Cow": {
+      "prefix": "moo::Sacred Cow",
+      "body": "\n          /\\\\ \n         {__}\n         (oo)\n  /-------\\\\/ \n / |  +  ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Zen Cow (eating grass)": {
+      "prefix": "moo::Zen Cow (eating grass)",
+      "body": "\n             \n             \n             \n             \n             \n             \n             \n"
+    },
+    "Hasidic Cow": {
+      "prefix": "moo::Hasidic Cow",
+      "body": "\n          __  \n        _[__]_\n        /(oo)\\\\\n  /------@\\\\/@ \n / |     |@@  \n*  ||----||   \n   ^^    ^^   \n"
+    },
+    "COWculator (2)": {
+      "prefix": "moo::COWculator (2)",
+      "body": "\n  _____          _________________  \n /     \\\\        /                 \\\\ \n( 1+2=3 )      ( 1+SIN(2x)+COS(3x) )\n \\\\__  _/        \\\\_____  __________/ \n   ( (                ) )           \n    \\\\                //            \n      \\\\    (__)      /              \n           (oo)                     \n    /-------\\\\/                      \n   / |     ||                       \n  *  ||----||                       \n     ^^    ^^                       \n"
+    },
+    "Reverse Polish Cow": {
+      "prefix": "moo::Reverse Polish Cow",
+      "body": "\n)__(         \n(oo)         \n \\\\/-------*  \n  ||     | \\\\ \n  ||----||  \\\\\n  vv    vv   \n"
+    },
+    "Cow-a-bunga": {
+      "prefix": "moo::Cow-a-bunga",
+      "body": "\n   (Bull's Eye__)   \n  >(==)   \n  /-\\\\/-\\\\  \n /(    )\\\\ \n^ (    ) ^\n  (    )  \n  /----\\\\  \n /    \\\\ \\\\ \n^      * ^\n"
+    },
+    "COWTOW": {
+      "prefix": "moo::COWTOW",
+      "body": "\n                                  O  (___) ||\n                                  |  (o o) ||\n            (no-bull-ity) --->    %  -\\\\ /- ||\n                                  |\\\\/| O | ||\n                                  |  |   | ||\n                                     / v-' ||\n                                 /==========|\n                                //         ||\n  ,------._(__)                 ||         ||\n * | \\\\     ( oo                 ||         ||\nvv====>----=\\\\/====vv            |===========|\n"
+    },
+    "Bi-cow molecule": {
+      "prefix": "moo::Bi-cow molecule",
+      "body": "\n   ^^    ^^  \n*  ||----||  \n \\\\ |     ||  \n  \\\\-------/\\\\ \n         (oo)\n         (  )\n          >< \n         (  )\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Eh, What's up Doc?": {
+      "prefix": "moo::Eh, What's up Doc?",
+      "body": "\n        ()  ()\n         ()() \n         (oo) \n  /-------UU  \n / |     ||   \n*  ||w---||   \n   ^^    ^^   \n"
+    },
+    "Cow dressed up as ghost for Halloween": {
+      "prefix": "moo::Cow dressed up as ghost for Halloween",
+      "body": "\n         (__) \n   _____| oo |\n  /          |\n /           |\n/____________|\n   ^^    ^^   \n"
+    },
+    "Cow dressed up as Frankenstein for Halloween": {
+      "prefix": "moo::Cow dressed up as Frankenstein for Halloween",
+      "body": "\n         (__)  \n         |oo|  \n  /----|-|__|-|\n / |     ||    \n*  ||----||    \n"
+    },
+    "Japanese model portable COW": {
+      "prefix": "moo::Japanese model portable COW",
+      "body": "\n             \n             \n             \n             \n-->   .      \n             \n"
+    },
+    "Portable Cow (very handy)": {
+      "prefix": "moo::Portable Cow (very handy)",
+      "body": "\n         (__)\n         (oo)\n   __[_]__\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Lycownthropy": {
+      "prefix": "moo::Lycownthropy",
+      "body": "\n         |\\\\/|\n         (oo)\n  /-------VV \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Cow-a-bunga (2)": {
+      "prefix": "moo::Cow-a-bunga (2)",
+      "body": "\n         (__)\n        >(==)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ~~    ~~  \n"
+    },
+    "Cowabunga!": {
+      "prefix": "moo::Cowabunga!",
+      "body": "\n         (MM)\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Bart Simpcow": {
+      "prefix": "moo::Bart Simpcow",
+      "body": "\n         |^^^^|\n         |    |\n        @|   Oo\n         |  ._>\n         \\\\   / \n  /---------   \n / |      ||   \n*  ||-----||   \n   ^^     ^^   \n"
+    },
+    "Dr. Bones McCow ": {
+      "prefix": "moo::Dr. Bones McCow ",
+      "body": "\n _______________________ \n(   Dammit, Jim, I'm a  )\n( doctor, not a butcher!)\n(---------------------)) \n                (__)  )  \n                (oo)     \n         /-------\\\\/      \n        / I   * II       \n       *  II----II       \n"
+    },
+    "Cowpool": {
+      "prefix": "moo::Cowpool",
+      "body": "\n      ________________       \n     // (__)(__)||(__)\\\\\\\\\\\\     \n    //  (oo)(oo)||(oo) \\\\\\\\\\\\    \n   //  \\\\\"\\\\/\"\"\\\\/\"||\"\\\\/\"/ \\\\\\\\\\\\   \n  / ============||=======\\\\\\\\\\\\  \n(|        |-    ||-       ||)\n |________|_____||________||/\n  \\\\-( O )----------( O )--/  \n     ---            ---      \n"
+    },
+    "Cow jumping over the moon": {
+      "prefix": "moo::Cow jumping over the moon",
+      "body": "\n           (__)\n           (oo)\n    /-------\\\\/ \n   / //____\\\\\\\\\\\\  \n  * //      \\\\\\\\\\\\ \n   *********** \n  ****      ***\n ***          *\n****o          \n ******        \n  ***          \n   ***     *   \n    ***  ***   \n     ******    \n"
+    },
+    "Cow smoking a pipe": {
+      "prefix": "moo::Cow smoking a pipe",
+      "body": "\n         (__)     \n         (oo)     \n  /-------\\\\/___()~\n / |     ||       \n*  ||----||       \n   ^^    ^^       \n"
+    },
+    "Cow blowing bubbles from a pipe": {
+      "prefix": "moo::Cow blowing bubbles from a pipe",
+      "body": "\n      o    o    o       o     o              o                    o\n                o  o  o     o         o    o          o       o    \n         (__)    o  o   o          o            o        o         \n         (oo)   o o           o         o          o          o    \n  /-------\\\\/___()       o           o        o          o          \n / |     ||                                                        \n*  ||----||                                                        \n   ^^    ^^                                                        \n"
+    },
+    "Cow star-gazing": {
+      "prefix": "moo::Cow star-gazing",
+      "body": "\n        *    *     *       o    @              ~                      *\n                *  *  *     ,         o    *         *          *      \n         (__)    *  *   *         .               *      o             \n         (oo)   * *           )          .                 *           \n  /-------\\\\/             *  -(*)-    ~       @      *                  \n / |     ||                   (                                        \n*  ||----||                                                            \n   ^^    ^^                                                            \n"
+    },
+    "Cow wishing upon a star": {
+      "prefix": "moo::Cow wishing upon a star",
+      "body": "\n                                         |    \n                                        \\\\|/   \n                                     ----*----\n                                        /|\\\\   \n                                         |    \n                                              \n         (__)                                 \n         (oo)                                 \n  /-------\\\\/                                  \n / |     ||                                   \n*  ||----||                                   \n   ^^    ^^                                   \n"
+    },
+    "A Cow-mon Mistake": {
+      "prefix": "moo::A Cow-mon Mistake",
+      "body": "\n                  ________  \n         (__)    /        \\\\ \n         (oo)   ( Squeak!! )\n  /-------\\\\/  --'\\\\________/ \n / |     ||                 \n*  ||----||                 \n   ~~    ~~                 \n"
+    },
+    "Dyslexic Cow": {
+      "prefix": "moo::Dyslexic Cow",
+      "body": "\n                  _______  \n         (__)    /       \\\\ \n         (oo)   (  !oMo!  )\n  /-------\\\\/  --'\\\\_______/ \n / |     ||                \n*  ||----||                \n   ~~    ~~                \n"
+    },
+    "Cow Stored as Binary Information": {
+      "prefix": "moo::Cow Stored as Binary Information",
+      "body": "\n        ___________________________\n       /      /          /        /\n      /      /__________/        / \n     /                          /  \n    /                          /   \n   /                          /    \n  /                          /     \n / 3.5\" 135tpi              /      \n/__________________________/       \n"
+    },
+    "Cow Belle": {
+      "prefix": "moo::Cow Belle",
+      "body": "\n        @@@@@        \n      @@\\\\0 0/@@      \n        (o o)        \n     **  |U|  **     \n    ***(     )***    \n    //  \\\\   /  \\\\\\\\\\\\    \n   //    ***    \\\\\\\\\\\\   \n       *******       \n     ***********     \n   ***************   \n ******************* \n*********************\n*********************\n"
+    },
+    "Cows at a garden party": {
+      "prefix": "moo::Cows at a garden party",
+      "body": "\n         (___)                (___)                    (___)(___)       \n         (o o)              * (o o)                    (o o)(o o)       \n   /------\\\\ /   (__)         \\\\_(--)              /------\\\\ /  \\\\ /-----\\\\  \n  /    ____O    (oo)         / (**)\\\\            /   (__)_O    O___    \\\\ \n (    )/----\\\\----\\\\/         ( / \\\\/\\\\ )          (   )(oo)--\\\\---/--/(    )\n /\\\\oo===|  / ~  ||           \\\\\\\\\\\\    /           /\\\\oo==@/||  ~ \\\\~ |===oo/\\\\\n| ||    ||~-----||           |||~~||          | ||     ||-----~||   || |\n* ||    ||      ||           |||  ||          * ||     ||      ||   || *\n  ~~    ~~      ~~           ~~~  ~~            ~~     ~~      ~~   ~~  \n"
+    },
+    "Cow feeling pissed off": {
+      "prefix": "moo::Cow feeling pissed off",
+      "body": "\n         (__)\n         (oo)\n  /------\\\\  /\n / |     |\\\\/ \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Cow feeling pissed on": {
+      "prefix": "moo::Cow feeling pissed on",
+      "body": "\n         *       (__)\n          \\\\      (oo)\n        ...\\\\------\\\\/ \n       . (__)    ||  \n       . (oo)----||  \n  /-------\\\\/     ^^  \n / |     ||          \n*  ||----||         \n   ^^    ^^         \n"
+    },
+    "Cow feeling pissed": {
+      "prefix": "moo::Cow feeling pissed",
+      "body": "\n         . \n         .'\n        '. \n       (__)\n       (oo)\n/-------\\\\/ \n\\\\|     ||  \n*><----><  \n ^^    ^^  \n"
+    },
+    "Cow about to give milk": {
+      "prefix": "moo::Cow about to give milk",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||W---||  \n   ^^    ^^  \n"
+    },
+    "Cow giving U.H.T. milk": {
+      "prefix": "moo::Cow giving U.H.T. milk",
+      "body": "\n *        (__)\n  \\\\       (oo)\n ..\\\\-------\\\\/ \n.   |     ||  \n.   ||----||  \n    ^^    ^^  \n"
+    },
+    "Cow who's just seen a McDonalds": {
+      "prefix": "moo::Cow who's just seen a McDonalds",
+      "body": "\n*        (__)\n \\\\       (OO)\n  \\\\-------\\\\/ \n   /     \\\\\\\\\\\\  \n  //------\\\\\\\\\\\\ \n ^^        ^^\n"
+    },
+    "Cloud of dust where same cow was before": {
+      "prefix": "moo::Cloud of dust where same cow was before",
+      "body": "\n     (   )     \n  (         )  \n(   (         )\n (      )    ) \n    (     )    \n"
+    },
+    "Cow standing in long grass": {
+      "prefix": "moo::Cow standing in long grass",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \nWWWWWWWWWWWWW\n"
+    },
+    "Cow SMOKING grass": {
+      "prefix": "moo::Cow SMOKING grass",
+      "body": "\n         (__)  s\n         (@@) s \n  /-------\\\\===  \n / |     ||     \n*  ||----||     \n   ^^    ^^     \n"
+    },
+    "Dead cow": {
+      "prefix": "moo::Dead cow",
+      "body": "\n        (__)\n /------(xx)\n* \\\\     /\\\\/ \n===----==== \n"
+    },
+    "Mad Cow": {
+      "prefix": "moo::Mad Cow",
+      "body": "\n *     )__(\n/      (oo)\n\\\\--___--\\\\/ \n |      | \n /\\\\----/ \\\\\\\\\n^  ^   ^ ^\n"
+    },
+    "Norwegian cow": {
+      "prefix": "moo::Norwegian cow",
+      "body": "\n         (__)\n         (00)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Calf having drink": {
+      "prefix": "moo::Calf having drink",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||O---||  \n  [__].  ^^  \n"
+    },
+    "Calf making mistake": {
+      "prefix": "moo::Calf making mistake",
+      "body": "\n         (___)\n         (@ @)\n  /-------\\\\ / \n / |      |O  \n*  ||O---||   \n  [__].  ^^   \n"
+    },
+    "Same bull after calf went away": {
+      "prefix": "moo::Same bull after calf went away",
+      "body": "\n*        (___)\n \\\\       (* *)\n  \\\\-------\\\\ / \n   |      |O  \n   ||@>--||   \n   ^^    ^^   \n"
+    },
+    "Cow watching above bull": {
+      "prefix": "moo::Cow watching above bull",
+      "body": "\n         (__)\n         (DD)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Cow having a sexual fantasy": {
+      "prefix": "moo::Cow having a sexual fantasy",
+      "body": "\n*        (__)\n \\\\       (xx)\n  \\\\-------\\\\/ \n   |     ||  \n   ||----||  \n   ^^    ^^  \n"
+    },
+    "Jersey Cow": {
+      "prefix": "moo::Jersey Cow",
+      "body": "\n          (__)\n          (oo)\n  /-',',', \\\\/ \n./,|',',',',' \n   |''''''|   \n   ~~     ~~  \n"
+    },
+    "The \"bummer of a birthmark\" Cow (with due accowlades to Gary Larson (The Far Side))": {
+      "prefix": "moo::The \"bummer of a birthmark\" Cow (with due accowlades to Gary Larson (The Far Side))",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / | (+) ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Highland Cow": {
+      "prefix": "moo::Highland Cow",
+      "body": "\n              -\\\\  /-                       \n               '\\\\/'                        \n               (oo)       _________        \n       /------- \\\\/       | \\\\      /|       \n     ./ |       ,        | - -X- - |       \n        |------|         |/______\\\\_|       \n      --|------|---------|-------          \n     /---------------------------\\\\         \n    /    __                       \\\\\\\\\\\\       \n  //    /  \\\\          __            \\\\\\\\\\\\\\\\\\\\    \n///                  /  \\\\              \\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+    },
+    "In\"cow\"tinent": {
+      "prefix": "moo::In\"cow\"tinent",
+      "body": "\n ________   \\\\                                       \n|########|     \\\\                                    \n|########|        \\\\                                 \n --------\\\\           \\\\                              \n   (__)  |              \\\\                           \n   (oo)  |                 \\\\ ______________________ \n    \\\\/   |                 |                       |\n  /+++\\\\  o                 |                       |\n /+++++\\\\                   |          ____         |\n~ #/##\\\\#~  \\\\               |        /  To |        |\n  / ii \\\\      \\\\            |        \\\\ W.C.|        |\n~~      ~~       \\\\         |          ----         |\n                    \\\\      |                       |\n                       \\\\   |                       |\n                          \\\\|------------------------\n"
+    },
+    "A well adjust(1)ed Cow": {
+      "prefix": "moo::A well adjust(1)ed Cow",
+      "body": "\n(__) (oo) /-------\\\\/ / | || * ||----|| ^^ ^^\n"
+    },
+    "An ass-sort(1)-ed Cow": {
+      "prefix": "moo::An ass-sort(1)-ed Cow",
+      "body": "\n         (__)\n         (oo)\n   ^^    ^^  \n  /-------\\\\/ \n / |     ||  \n*  ||----|| \n"
+    },
+    "A compress(1)ed Cow": {
+      "prefix": "moo::A compress(1)ed Cow",
+      "body": "\n>ysP   -\"JlAe B  x\n"
+    },
+    "An awk(1)ward Cow": {
+      "prefix": "moo::An awk(1)ward Cow",
+      "body": "\nawk: Usage: awk [-f source | 'cmds'] [files]\n"
+    },
+    "uuencoded cow": {
+      "prefix": "moo::uuencoded cow",
+      "body": "\nbegin 644 cow                                                \nM\"B @(\" @(\" @(\"A?7RD*\"2 H;V\\\\I\"B @+RTM+2TM+2U<+PH@+R!\\\\(\" @(\"!\\\\\n;? HJ(\"!\\\\?\"TM+2U\\\\? H@(\"!>7B @(\"!>7@H*                        \nend                                                          \n"
+    },
+    "This is the cowboy-cow": {
+      "prefix": "moo::This is the cowboy-cow",
+      "body": "\n          __            \n        _|__|_          \n         (oo)           \n  /-------\\\\/            \n / |===w=||_|OO ... ....\n*  ||----|              \n   ^^    ^              \n"
+    },
+    "Cow'dom": {
+      "prefix": "moo::Cow'dom",
+      "body": "\n   ___________________________        \n| |                (__)       \\\\       \n| |                (oo)        |      \n| |         /-------\\\\/          \\\\____ \n| |        / |     ||            ____)\n| |       *  ||----||           /     \n| |          ~~    ~~          |      \n| |___________________________/       \n"
+    },
+    "Cow-st liner": {
+      "prefix": "moo::Cow-st liner",
+      "body": "\n   /-----------------------------------------------------------------------\n  |[]  ________  ________  ------  ________  ________  ________  ------  __\n /     | (oo) |  |  (oo)|  |[][]|  |(oo)  |  |oo)(oo|  |(oo)  |  |[][]|  | \n|      | _\\\\/__|  |___\\\\/_|  |[][]|  |_\\\\/___|  |\\\\/__\\\\/|  |_\\\\/___|  |[][]|  |_\n|--------------------------|    |--------------------------------|    |----\n|                          |    |                                |    |    \n+---/OOO==OOO\\\\-------------======---------/OOO==OOO\\\\-------------======----\n"
+    },
+    "Andrei Ag-cow-si": {
+      "prefix": "moo::Andrei Ag-cow-si",
+      "body": "\n                            _-_                                 \n                (__)       [   ]                                \n                (oo)       /-_-                                 \n                 \\\\/-------/                                     \n                  ||     |                                      \n                  ||----||                                      \n                  ~~    ~~                                      \n            (__)                     *                          \n            (oo)                                                \n     /-------\\\\/ ~~____________________________________________  \n    / |        // ||\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/||  \n   *  ||------+   ||/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\||  \n      ~~          ||\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/\\\\/||  \n                                                                \n                                                  _-_           \n                                                 [   ]      (__)\n                                                  -_-\\\\      (  )\n                                                      \\\\-------- \n                                                       |     || \n                                                       ||----|| \n                                                       ~~    ~~ \n"
+    },
+    "Cowaxial Cable": {
+      "prefix": "moo::Cowaxial Cable",
+      "body": "\n(__)___________________________________________________________(__)\n(oo)                                                           (oo)\n \\\\/_____________________________________________________________\\\\/ \n"
+    },
+    "Tammy Fae Baker's cow ": {
+      "prefix": "moo::Tammy Fae Baker's cow ",
+      "body": "\n         (__)  \n        ( V V )\n        (>O O<)\n        ( A A )\n  /-------\\\\/   \n / |     ||    \n*  ||----||    \n   ^^    ^^    \n"
+    },
+    "Imelda Marcos' cow": {
+      "prefix": "moo::Imelda Marcos' cow",
+      "body": "\n         (__) \n         (oo) \n  /-------\\\\/  \n / |     ||   \n*  ||----||   \n   | \\\\   | \\\\  \n   V> V> V> V>\n"
+    },
+    "Cattle call": {
+      "prefix": "moo::Cattle call",
+      "body": "\n                    ++   ++ \n                   +||---||+\n         (__)      | 1 2 3 |\n         (oo)O     | 4 5 6 |\n  /-------\\\\/o/     | 7 8 9 |\n / |     |__/~~~~~~| * 0 # |\n*  ||----|         +-------+\n   ^^    ^                  \n"
+    },
+    "Cow punch ": {
+      "prefix": "moo::Cow punch ",
+      "body": "\n         (__)            \n         (oo)            \n  /-------\\\\/__           \n / |     |__\\\\/  \\\\~~~~~~~/\n*  ||----|       \\\\_____/ \n   ^^    ^               \n"
+    },
+    "Cow Ripken": {
+      "prefix": "moo::Cow Ripken",
+      "body": "\n  (__)  /\n  (oo) / \n  -\\\\/-/  \n /\\\\__/_| \n/     /  \n|    /   \n\\\\ _ /    \n | |     \n ^ ^     \n"
+    },
+    "Bullemic": {
+      "prefix": "moo::Bullemic",
+      "body": "\n         (___)\n         (o o)\n  /_______\\\\ / \n / |-,---||O  \n*  ||    ||   \n   ^^    ^^   \n"
+    },
+    "Papal Bull": {
+      "prefix": "moo::Papal Bull",
+      "body": "\n           _  \n          / \\\\ \n         | + |\n         |___|\n         (o o)\n  /-------\\\\ / \n / |     ||O  \n*  ||,---||   \n   ^^    ^^   \n"
+    },
+    "Steerage": {
+      "prefix": "moo::Steerage",
+      "body": "\n             ___   ___                                   \n             \\\\  \\\\  \\\\  \\\\                                  \n   (___)   ___\\\\__\\\\__\\\\__\\\\__                               \n   (o o)   |  O O O O O O|                               \n  --\\\\ /----+-------------+-------/                       \n  |  O                          /                        \n   \\\\                           /                         \n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"
+    },
+    "Le Bullet Russe": {
+      "prefix": "moo::Le Bullet Russe",
+      "body": "\n  v     v \n / (___) \\\\\n | (o o) |\n  \\\\_\\\\ /_/ \n   | O |  \n   |   |  \n   /~~~\\\\  \n  /     \\\\ \n  ~~|~~|~ \n    |  |  \n     \\\\  \\\\ \n"
+    },
+    "Dick Tracy's Cow": {
+      "prefix": "moo::Dick Tracy's Cow",
+      "body": "\n             ___________________ \n   ___      (  I MOO-ON MY WAY  )\n _|___|_    //~~~~~~~~~~~~~~~~~~ \n  ( uu|    '                     \n  /\\\\_c|                          \n / \\\\ C#=}~|                      \n| )   \\\\                          \n| |  o |                         \n\\\\ |  | |                         \n [_] o ]                         \n |  / \\\\|                         \n L_/   |                         \n  || ||                          \n  || ||                          \n  ID ID                          \n"
+    },
+    "Bulldozer": {
+      "prefix": "moo::Bulldozer",
+      "body": "\n         (___)      _____ \n         (- -)     / zzz |\n  /-------\\\\ /  ---<______/\n / |     ||O              \n*  ||,---||               \n   ^^    ^^               \n"
+    },
+    "Cow-sine wave": {
+      "prefix": "moo::Cow-sine wave",
+      "body": "\n|                             \n|                             \n|                             \n|                             \n|                             \n|                             \n|##        (__)  m m          \n|   ##     (oo) / /           \n|     ##   |\\\\/ / /            \n|       ## |  / /  m m        \n|        ## \\\\   \\\\ / /         \n|         ## \\\\   / /          \n|          ## \\\\ / /           \n|           ## \\\\--            \n|            ##  |            \n|            ##   --*         \n|____________##_______________\n             ##               \n             ##               \n              ##              \n               ##             \n                ##            \n                 ##           \n                  ##          \n                    ##        \n                      ##      \n                         ##   \n"
+    },
+    "cow-cow nut": {
+      "prefix": "moo::cow-cow nut",
+      "body": "\n==================================\n=                                =\n=                  _____         =\n=        ______   /     \\\\        =\n=       /      \\\\ |       \\\\       =\n=      /        ||\\\\     (__)     =\n=    (__)    __ || \\\\    (oo)     =\n=    (oo)   /  \\\\||(__)   \\\\/      =\n=     \\\\/  (__)  ||(oo)           =\n=         (oo)  || \\\\/            =\n=          \\\\/   ||               =\n=               ||               =\n=               ||               =\n=               ||               =\n=               ||               =\n=               ||               =\n=               ||               =\n=               ||               =\n=                                =\n=                                =\n=                                =\n=                                =\n==================================\n"
+    },
+    "Cow tipping (Step 1)": {
+      "prefix": "moo::Cow tipping (Step 1)",
+      "body": "\n         (__)\n         (--)\n  /-------\\\\/ \n / |     ||  \n*  ||w---||  \n   ~~    ~~  \n"
+    },
+    "Cow tipping (Step 2)": {
+      "prefix": "moo::Cow tipping (Step 2)",
+      "body": "\n  O--------O_ \n /| ::     |_)\n* O--------O  \n"
+    },
+    "A Cowsmologist": {
+      "prefix": "moo::A Cowsmologist",
+      "body": "\n                                                             *\n         (__)     ________                              *    *\n         (oo) ====________|                         *    *    \n  /-------\\\\/         /\\\\                                       \n / |     ||         /  \\\\                     *                \n*  ||----||        /    \\\\                                     \n   ~~    ~~       /      \\\\                                    \n"
+    },
+    "Cowt-of-order (Me-cow-nical failure)": {
+      "prefix": "moo::Cowt-of-order (Me-cow-nical failure)",
+      "body": "\n     \\\\      / _\n   /\\\\/______\\\\/ \n    |      (__)\n*---|______(^^)\n            \\\\/ \n"
+    },
+    "Cowloon": {
+      "prefix": "moo::Cowloon",
+      "body": "\n          /\\\\  \n         /  \\\\ \n        /(`')\\\\\n  /-------\\\\/  \n / |     ||   \n*  ||----||   \n   ~~    ~~   \n"
+    },
+    "Cow in Bergen, Norway": {
+      "prefix": "moo::Cow in Bergen, Norway",
+      "body": "\n` `_______ ` `\n `/_/_|_\\\\_\\\\ ` \n`     |(__)  `\n `    |(oo)  `\n`  `  J \\\\/  ` \n"
+    },
+    "Sitting Bull": {
+      "prefix": "moo::Sitting Bull",
+      "body": "\n                    (___)     ________  \n              .____ (o o)    /        \\\\ \n             /       \\\\ /  --|  UGGGGH! |\n           /       || O      \\\\________/ \n          /      / ||                   \n         /      /  ||                   \n        /_____/__, ||                   \n*------'---------' ~~                   \n"
+    },
+    "Bull's Eye": {
+      "prefix": "moo::Bull's Eye",
+      "body": "\n    )\n     \n     \n     \n     \n     \n     \n"
+    },
+    "Bull-etin from the White House": {
+      "prefix": "moo::Bull-etin from the White House",
+      "body": "\n                        _________________________   \n         (___)         / ...The President then   \\\\  \n         (o o)        / had to take into serious  \\\\ \n  /-------\\\\ /    ----| consideration what implica- |\n / |     ||O          \\\\ tions it would have for.../ \n*  ||,---||            \\\\_________________________/  \n   ~~    ~~                                         \n"
+    },
+    "The Roman Cowliseum": {
+      "prefix": "moo::The Roman Cowliseum",
+      "body": "\n ________________________________________________ \n  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  \n    %%      %%                      %%      %%    \n    ||      ||                      ||      ||    \n    ||      ||                      ||      ||    \n    ||      ||    _ (_)    \\\\o/      ||      ||    \n    ||      ||  /|_|(_)     |       ||      ||    \n____||______||_\"_|_|_______/_\\\\______||______||____\n"
+    },
+    "Stealth Cow": {
+      "prefix": "moo::Stealth Cow",
+      "body": "\n      _                  \n     | \\\\                 \n     |  \\\\            (__)\n*----|---------------(oo)\n     |    ______     |\\\\/ \n     |___/     /_____|   \n     / / \\\\____/    / /   \n    / >           > /    \n   >               >     \n"
+    },
+    "MacCow": {
+      "prefix": "moo::MacCow",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\$/ \n / | ^^  ||  \n* ||-----|   \n  ^^     ^   \n"
+    },
+    "MosCow": {
+      "prefix": "moo::MosCow",
+      "body": "\n        (___)\n        (~  )\n        (o o)\n  /-------\\\\$/ \n / |      || \n* ||------|  \n  ^^      ^  \n"
+    },
+    "Dead Cow": {
+      "prefix": "moo::Dead Cow",
+      "body": "\n                 *\n   vv       vv  / \n   ||____M__||/   \n   ||       ||    \n /\\\\||_______||    \n(Xx)              \n(--)              \n"
+    },
+    "Cow by Georgia O'Keefe": {
+      "prefix": "moo::Cow by Georgia O'Keefe",
+      "body": "\n(__)\n(xx)\n \\\\/ \n"
+    },
+    "The Butcher of Baghdad (Saddam Holstein)": {
+      "prefix": "moo::The Butcher of Baghdad (Saddam Holstein)",
+      "body": "\n     __/---\\\\ \n    <__/-(__)\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Karen Cowpenter": {
+      "prefix": "moo::Karen Cowpenter",
+      "body": "\n   (oo)\n /--\\\\/ \n/ --   \n  ||   \n"
+    },
+    "A Christmas Cow-el": {
+      "prefix": "moo::A Christmas Cow-el",
+      "body": "\n   (__)   \n   (oo)   \n    \\\\/    \n    /\\\\    \n   //\\\\\\\\\\\\\\\\   \n  o/||\\\\o  \n //o||\\\\\\\\\\\\\\\\\\\\\\\\ \no///||o\\\\ \\\\\\\\o\n    ||    \n    ===== \n"
+    },
+    "Cow owned by Vincent Van Gough": {
+      "prefix": "moo::Cow owned by Vincent Van Gough",
+      "body": "\n         (__ \n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Teenage Mutant Ninja Cows": {
+      "prefix": "moo::Teenage Mutant Ninja Cows",
+      "body": "\n         (__)               (__)  |    |  (__)         \n         (--)               (--)  |    |  (--)         \n  /-------\\\\/   /o    /-------\\\\/   |    I   \\\\/-------\\\\  \n / |  L  |----< o   / |  D  |----<T    I>----|  M  | \\\\ \n*  ||----|   /  o  *  ||----|     I    I     |----||  *\n   ^^    ^      |     ^^    ^          |     ^    ^^   \n                |                      |               \n"
+    },
+    "Cow11": {
+      "prefix": "moo::Cow11",
+      "body": "\n\\\\\\\\\\\\     // \n \\\\\\\\\\\\( )//  \n  (o o)   \n   \\\\ /    \n  /   \\\\   \n  |   |   \n  \\\\___/   \n // | \\\\\\\\\\\\  \n//     \\\\\\\\\\\\ \n\"       \" \n"
+    },
+    "Mosscow": {
+      "prefix": "moo::Mosscow",
+      "body": "\n           (  )\n           (oo)\n  ##########\\\\/ \n # ######## #  \n*  # ###### #  \n   # #    # #  \n"
+    },
+    "Cowderoys": {
+      "prefix": "moo::Cowderoys",
+      "body": "\n    (__)    \n   /(oo)\\\\   \n  /  \\\\/  \\\\  \n /   /\\\\   \\\\ \n/   /  \\\\   \\\\\n|   |  |   |\n|   |  |   |\n|___|  |___|\n"
+    },
+    "Cow w/ cowpox": {
+      "prefix": "moo::Cow w/ cowpox",
+      "body": "\n           (  )\n           (oo)\n  /---*-.---\\\\/ \n / |* . * .||  \n*  ||------||  \n   ~~      ~~  \n"
+    },
+    "Boris Cowlile": {
+      "prefix": "moo::Boris Cowlile",
+      "body": "\n        __ \n       (oo)\n/-------\\\\/ \n :     ::  \n ::----::  \n ^^    ^^  \n"
+    },
+    "Cow on Graduation day": {
+      "prefix": "moo::Cow on Graduation day",
+      "body": "\n        _____ \n       <_____>\n        (==) |\n  /------\\\\/- *\n / |   | \\\\/|  \n*  |       |  \n   |===|===|  \n    ^^   ^^   \n"
+    },
+    "COW giving birth": {
+      "prefix": "moo::COW giving birth",
+      "body": "\n   /\\\\    \n   \\\\/    \n   ||    \n (_||_)  \n__\\\\||/__ \n| /xx\\\\  |\n__\\\\xx/__|\n  /ww\\\\   \n /|  |\\\\  \n |^  ^|  \n ^    ^  \n"
+    },
+    "The Ninja Cow": {
+      "prefix": "moo::The Ninja Cow",
+      "body": "\n                 / \n                /  \n      (__)     /   \n      <`'>    /    \n       \\\\/    /^    \n    #=======> |    \n     (    )==/     \n     I____I        \n ,---( _  )       .\n/    || \\\\_=======||\n     ||            \n     ||            \n     ==            \n"
+    },
+    "heli-COW-pter": {
+      "prefix": "moo::heli-COW-pter",
+      "body": "\n         \\\\    |   /   \n           \\\\  | /     \n       _____ ___ _____\n _         /(o o) \\\\   \n(_)------/---\\\\ /    \\\\ \n      |     ||        \n      ||----||        \n      oo    oo        \n"
+    },
+    "Cow-culater": {
+      "prefix": "moo::Cow-culater",
+      "body": "\n*                (__)\n \\\\               (oo)\n  \\\\---------------\\\\/ \n  |          0.0  |  \n  |---------------|  \n  |  C CE  ^  -   |  \n  |  7  8  9  +   |  \n  |  4  5  6  *   |  \n  |  1  2  3  /   |  \n  |     0  .  =   |  \n   |            ||   \n   ||-----------||   \n   ^^           ^^   \n"
+    },
+    "Cow-culator": {
+      "prefix": "moo::Cow-culator",
+      "body": "\n ________(__)_ \n|COW-SIO (oo) |\n|  _______\\\\/  |\n| |_________| |\n|             |\n| C  =  /  *  |\n| 7  8  9  -  |\n| 4  5  6  +  |\n| 1  2  3     |\n| 0     .  =  |\n|_____________|\n"
+    },
+    "NFL Dallas \"COWBOY\"": {
+      "prefix": "moo::NFL Dallas \"COWBOY\"",
+      "body": "\n        (_--_)  \n        /*__*\\\\  \n*     __|(oo)|_ \n \\\\/--(  \\\\|==|/ )\n  |   \\\\       / \n  \\\\ \\\\  | | | |  \n   | |-\\\\ /-\\\\ /  \n   ^ ^  ^   ^   \n"
+    },
+    "COW-comitant": {
+      "prefix": "moo::COW-comitant",
+      "body": "\n         (__)       (__)       (__)      (__)\n         (oo)       (oo)       (oo)      (oo)\n  /-------\\\\/ /-------\\\\/ /-------\\\\//-------\\\\/ \n / |     || / |     || /|     || /|     ||   \n*  ||----||*  ||----||* ||----||* ||----||   \n   ^^    ^^   ^^    ^^  ^^    ^^  ^^    ^^   \n"
+    },
+    "USA'$ cow": {
+      "prefix": "moo::USA'$ cow",
+      "body": "\n         (__)\n         (\\\\$\\\\$)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "GB'& cow": {
+      "prefix": "moo::GB'& cow",
+      "body": "\n         (__)\n         (&&)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "JP'y cow": {
+      "prefix": "moo::JP'y cow",
+      "body": "\n         (__)\n         (YY)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ..    ..  \n"
+    },
+    "Bank'% cow": {
+      "prefix": "moo::Bank'% cow",
+      "body": "\n         (__)\n         (%%)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   \\\\$&    #Y  \n"
+    },
+    "Hoosier Cow": {
+      "prefix": "moo::Hoosier Cow",
+      "body": "\n _____________                                  \n|             |                                 \n| INDIANA  45 |                                 \n|             |                  |              \n| PURDUE   52 |                  |              \n|_____________|                  |              \n                           ______|====\\\\         \n                           \\\\/\\\\/\\\\/     \\\\\\\\\\\\        \n                            \\\\/\\\\/       \\\\\\\\\\\\       \n                                        \\\\\\\\\\\\      \n                                         \\\\\\\\\\\\     \n             (__)   __                    \\\\\\\\\\\\    \n             (oo)  /)(\\\\                    \\\\\\\\\\\\   \n       *    / \\\\/_/~\\\\__/                     ||  \n        \\\\  /   __/~                         ||  \n          \/   /                             ||  \n          | _/                              ||  \n          | |                               ||  \n          ~ ~                             ------\n"
+    },
+    "smokin' cow": {
+      "prefix": "moo::smokin' cow",
+      "body": "\n       .\n       .\n(___)  .\n(o o)  .\n \\\\ /  . \n  Q..   \n"
+    },
+    "waisted cow": {
+      "prefix": "moo::waisted cow",
+      "body": "\n       .\n       .\n(___)  .\n(- -)  .\n \\\\ /  . \n  Q..   \n"
+    },
+    "cow who cow'nts": {
+      "prefix": "moo::cow who cow'nts",
+      "body": "\n         (__)     \n         (oo)     \n  /-------\\\\/ 5+2=?\n / !     !!       \n*  !!----!!       \n   ^^    ^^       \n"
+    },
+    "SIDE VIEWS": {
+      "prefix": "moo::SIDE VIEWS",
+      "body": "\n                  (__)         (__)                 \n                  (00)         (  )                 \n  /----------------\\\\/           \\\\/---------------\\\\  \n /  |             |              |              | \\\\ \n*   ||-----------||              |||----------|||  *\n   ^^^          ^^^^             ^^^          ^^^   \n"
+    },
+    "BACK VIEW": {
+      "prefix": "moo::BACK VIEW",
+      "body": "\n | \n | \n | \n | \n | \n * \n^^^\n"
+    },
+    "FRONT VIEW": {
+      "prefix": "moo::FRONT VIEW",
+      "body": "\n | \n | \n | \n | \n | \n | \n^^^\n"
+    },
+    "Helicowpter": {
+      "prefix": "moo::Helicowpter",
+      "body": "\n           _- --\/   - `\\\\ \n      _________\/_________\n      \"       \/|         \n(__)   `     \/_| _ -     \n|@@|           |         \n \\\\/`--------.__/         \n  |         /            \n  //`---\\\\/||             \n  ||      ||             \n"
+    },
+    "Cool Cow": {
+      "prefix": "moo::Cool Cow",
+      "body": "\n^        (___)  \n^        |*-*|  \n^____  _  \\\\o/`-\\\\\n      \\\\  / U   |\n       \\\\/\\\\   | /\n         |   // \n         |  C/  \n         \\\\---/  \n         |/\\\\ |  \n         || ||  \n         || ||  \n         || ||  \n"
+    },
+    "Cowterpillar": {
+      "prefix": "moo::Cowterpillar",
+      "body": "\n                        (__)\n                        (oo)\n   /---------------------\\\\/ \n /  |   |   |   |   |   ||  \n*   ||--||--||--||--||--||  \n    ^^  ^^  ^^  ^^  ^^  ^^  \n"
+    },
+    "Yuppie cow with mobile phone": {
+      "prefix": "moo::Yuppie cow with mobile phone",
+      "body": "\n         (__) |  \n         (\\\\$\\\\$) |__\n  /-------\\\\/---||\n / |     |     ||\n*  ||----|     --\n"
+    },
+    "Cow that was captured by head-shrinkers": {
+      "prefix": "moo::Cow that was captured by head-shrinkers",
+      "body": "\n  /---------o*o\n / |      ||   \n*  ||-----||   \n   ^^     ^^   \n"
+    },
+    "Newton's Cow (aka Mooton)": {
+      "prefix": "moo::Newton's Cow (aka Mooton)",
+      "body": "\n      ((( ))))       \n    ((  (    )))     \n   ( (     )   ) )   \n ( ( (         ))))  \n( (           / ) ) )\n ( ( \\\\\\\\\\\\       ) ) )  \n     ( :  // ) )     \n       :   :         \n       :   :      O  \n       :   :         \n       :   :         \n       :   :    (__) \n       :   :    (oo) \n       :   : ----\\\\/  \n       :   :    ::   \n       :   : ---::   \n    ------------^^   \n"
+    },
+    "Bart Cow": {
+      "prefix": "moo::Bart Cow",
+      "body": "\n  (     )      I'm a cow, man !\n   ^^^^^     /                 \n   |   |   _/                  \n    O O   /                    \n   \\\\ C / -                     \n     ~                         \n  /     \\\\                      \n / |   | \\\\                     \n(  |   |  )                    \n \\\\ \\\\___/ /                     \n  W/   \\\\W                      \n  /|_n_|                       \n / || ||                       \n | () ()                       \n * || ||                       \n   VV VV                       \n"
+    },
+    "MAGIC DECISION MAKING COW": {
+      "prefix": "moo::MAGIC DECISION MAKING COW",
+      "body": "\n           __                                                                  \n         >(__)       This cow will make all those desisions for you by changing\n          (oo)       color according to the action you should take.            \n   /-------\\\\/                                                                  \n  / |     ||         If this cow appears to be:                                \n *  ||----||                                                                   \n    ^^    ^^         GREEN: Yes, Go ahead                                      \n                                                                               \n                     WHITE: No, unless it is raining.                          \n                                                                               \n                     AMBER: Buy a better monitor/terminal                      \n                                                                               \n                     GRAY:  Adjust your contrast/brightness control            \n                                                                               \n                     BLACK (on black): Turn terminal/monitor on.               \n                                                                               \n                     BLACK (on white): Lucky git!                              \n                                                                               \n                     ANY OTHER COLOR: Send terminal/monitor to repairer's,     \n                                      quickly!                                 \n"
+    },
+    "Pablo Picowsso": {
+      "prefix": "moo::Pablo Picowsso",
+      "body": "\n    ) (         \n    ( o)\\\\       \n*    \\\\o /       \n \\\\    \\\\/-----\\\\  \n  \\\\-----   || \\\\ \n \\\\$ |     --||  *\n  ||-vv--  ~~   \n  ~~            \n"
+    },
+    "Paloma Picowasso": {
+      "prefix": "moo::Paloma Picowasso",
+      "body": "\n     /~~\\\\     \n     \\\\__/     \n  ==========  \n /     {__} \\\\ \n/      (**)  \\\\\n\\\\       \\\\/   /\n \\\\\"mon      / \n  \\\\ parfum\"/  \n   ========   \n"
+    },
+    "King Cowles II": {
+      "prefix": "moo::King Cowles II",
+      "body": "\n   +  \n  O O \n o_o_o\n (___)\n (___)\n (___)\n(   00\n \\\\_  |\n   \\\\_o\n"
+    },
+    "Belgian Cow": {
+      "prefix": "moo::Belgian Cow",
+      "body": "\n                   ______ \n                  : Oui? :\n _______          `v-----'\n:  Nee! :      (__)       \n`------v'      (oo)       \n        /-------\\\\/        \n       / :     ::         \n      *  ::----::         \n         ^^    ^^         \n"
+    },
+    "Corned Beef": {
+      "prefix": "moo::Corned Beef",
+      "body": "\n___________\n:         :\n: CORNED  :\n:  BEEF   :\n:_________:\n"
+    },
+    "Irakean Cow": {
+      "prefix": "moo::Irakean Cow",
+      "body": "\n              (__)      \n              (oo)      \n       /-------\\\\/       \n      / :     ::        \n     *  ::----::        \nXX======^^====^^==>>    \n X   US MISSILE     >>  \n X   Greetings       >>>\n X         George   >>  \nXX================>>    \n"
+    },
+    "Cow klux klan": {
+      "prefix": "moo::Cow klux klan",
+      "body": "\n         (/\\\\) \n         /oo\\\\ \n  /-----/____\\\\\n / |     ||   \n*  ||----||   \n   ~~    ~~   \n"
+    },
+    "Cow resting": {
+      "prefix": "moo::Cow resting",
+      "body": "\n          (__)  \n          (--)  \n  /--------\\\\/   \n / \\\\ |      \\\\__ \n*  /__-------__|\n      ~     ~   \n"
+    },
+    "Cow Flop (new flip-flop, patent pending)": {
+      "prefix": "moo::Cow Flop (new flip-flop, patent pending)",
+      "body": "\n                 ___()                     \nCOW ------------|   o\\\\                     \n                |     )O-------------- MOO \n           -----|____/  /                  \n           \\\\           /                   \n            \\\\         /                    \n             \\\\       /                     \n              \\\\     /                      \n               \\\\   /                       \n                \\\\ /                        \n                 X                         \n                / \\\\                        \n               /   \\\\                       \n              /     \\\\                      \n             /       \\\\                     \n            /         \\\\                    \n           /    ___()  \\\\                   \n           -----|   o\\\\  \\\\                  \n                |     |O-------------- ~MOO\nBULL ---------- |____/                     \n"
+    },
+    "cow chip": {
+      "prefix": "moo::cow chip",
+      "body": "\n(____)       \n\\\\(    )      \n|\\\\(    )     \n\\\\ \\\\(    )    \n \\\\ \\\\(    )   \n |\\\\ \\\\(    )  \n | \\\\ \\\\(    ) \n    \\\\ \\\\(____)\n     \\\\|_o_o_|\n       |   | \n       |   | \n"
+    },
+    "Texas Longhorn Steer": {
+      "prefix": "moo::Texas Longhorn Steer",
+      "body": "\n             (       )\n              \\\\     / \n               \\\\___/  \n               (o o)  \n  /-------------\\\\o/   \n / |           ||     \n*  ||-,--------||     \n   ||          ||     \n   ~~          ~~     \n"
+    },
+    "Texas Longhorn Bull": {
+      "prefix": "moo::Texas Longhorn Bull",
+      "body": "\n             (       )\n              \\\\     / \n               \\\\___/  \n               (o o)  \n  /-------------\\\\o/   \n / |           ||     \n*  ||@\\\\\\\\\\\\-------||     \n   ||  \\\\\\\\\\\\      ||     \n   ~~          ~~     \n"
+    },
+    "Pregnant Cow": {
+      "prefix": "moo::Pregnant Cow",
+      "body": "\n         (__)\n         (oo)\n   _______\\\\/ \n  /          \n / |     ||  \n*  ||-__-||  \n"
+    },
+    "Hanger": {
+      "prefix": "moo::Hanger",
+      "body": "\n      __       \n     (  )      \n       /       \n     /   \\\\     \n   /       \\\\   \n /           \\\\ \n(_____________)\n"
+    },
+    "De-calf-inated ": {
+      "prefix": "moo::De-calf-inated ",
+      "body": "\n         (__)\n         (oo)\n   _______\\\\/ \n  /|      |  \n / ||    ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "cow-boy": {
+      "prefix": "moo::cow-boy",
+      "body": "\n           (__)\n           (oo)\n  /---------\\\\/ \n /|    |   ||  \n* |__|-----||  \n   ||      ||  \n"
+    },
+    "cow-girl (or a Sco(w)ttish cow-boy)": {
+      "prefix": "moo::cow-girl (or a Sco(w)ttish cow-boy)",
+      "body": "\n             (__)\n             (oo)\n     ---------\\\\/ \n   /    |    ||  \n //____\\\\-----||  \n*   ||       ||  \n"
+    },
+    "Happy Hannucow!": {
+      "prefix": "moo::Happy Hannucow!",
+      "body": "\n        iiiiIiiii\n         '|o o|` \n   ________\\\\_/   \n / |        |    \n#  ||ww____||    \n   ||      ||    \n   ~~      ~~    \n"
+    },
+    "Sha-MOO": {
+      "prefix": "moo::Sha-MOO",
+      "body": "\n                       \\\\_                 \n                         \\\\                \n                  _____)  \\\\___            \n               __/            \\\\__         \n             _/                  \\\\        \n            /       ____     (     )      \n           /  /  __/    \\\\__   |o o|       \n          /| ||_/          \\\\   \\\\ /        \n^^^^^^^^^\"^// /^^^^^^^^^^^^^\\\\ \\\\\\\\\\\\^^^^^^^^^^\n          // /               | ||         \n         [][]                [][]         \n"
+    },
+    "Patriotic Cow": {
+      "prefix": "moo::Patriotic Cow",
+      "body": "\n       ^          \n       | **~~~~~~~\n       | **~~~~~~~\n  (__) | ~~~~~~~~~\n  (oo) | ~~~~~~~~~\n   \\\\/  |          \n/(   \\\\/|          \n (   ) |          \n  /~\\\\  |          \n"
+    },
+    "The herd shot 'round the world": {
+      "prefix": "moo::The herd shot 'round the world",
+      "body": "\n                           /\\\\                                          \n                          /  \\\\                                         \n                         /    \\\\                                        \n                         |    |                                        \n                        / *  * \\\\                                       \n                       /  ** *  \\\\                                      \n                      /   * **   \\\\                **                   \n                     /    *  *    \\\\             **  **                 \n.       .       .    |            |            *      *  <--- the world\n .           .      /     ****     \\\\           *      *                \n .   .         .   /      *  *      \\\\           **  **                 \n   .     .  .     /       ****       \\\\            **                   \n     .           /        *  *        \\\\                                \n         .       |                    |                                \n      .         /         ****         \\\\                               \n  .            /          *             \\\\         .       .            \n        .     /           ****           \\\\      .          .           \n             /               *            \\\\   .        .               \n            /             ****             \\\\                           \n            |                              |    .    .  .              \n            |             ****             |                           \n            |             *  *             | .       .    .            \n            |             ****             | .      .       .          \n            |             *  *             |    .       .    .         \n            |------------------------------|      .        .           \n            | (__)  (__)  (__)  (__)  (__) |   .    .                  \n     .     /| (oo)  (oo)  (oo)  (oo)  (oo) |\\\\                          \n          / | /\\\\/\\\\  /\\\\/\\\\  /\\\\/\\\\  /\\\\/\\\\  /\\\\/\\\\ | \\\\   .     .   .           \n      .  /  |=|==|==|==|==|==|==|==|==|==|=|  \\\\     .                  \n     . /    | |  |  |  |  |  |  |  |  |  | |    \\\\  .                   \n      / USA | ~||~  ~||~  ~||~  ~||~  ~||~ |NASA \\\\     .               \n     |______|  ~~    ~~    ~~    ~~    ~~  |______|       .            \n    .       (______________||______________)     .   .                 \n       .    /_\\\\                          /_\\\\  .     .    .             \n            !!!                          !!!                           \n"
+    },
+    "This cow belongs to Mr. Bill": {
+      "prefix": "moo::This cow belongs to Mr. Bill",
+      "body": "\n      (__)\n      (++)\n  /____O/ \n /|   ||  \n* ||--||  \n  ~~  ~~  \n"
+    },
+    "This cow belongs to Rosanne Barr": {
+      "prefix": "moo::This cow belongs to Rosanne Barr",
+      "body": "\n           (_ _)\n      ___  (o o)\n    _-   -_(   )\n  /-        O O \n / |       ||   \n*   ||-___-||   \n    ~~     ~~   \n"
+    },
+    "Cowoperation": {
+      "prefix": "moo::Cowoperation",
+      "body": "\n         (__)     (__)   \"slurp\"\n         (oo)     (oo)          \n  /-------\\\\/       \\\\/-------\\\\   \n / |     ||  \\\\__/  ||      | \\\\  \n*  ||----||  |  |  ||-----||  * \n   ~~    ~~  |__|  ~~     ~~    \n"
+    },
+    "Personal Cowmputer": {
+      "prefix": "moo::Personal Cowmputer",
+      "body": "\n       _________(__)___    \n      | -------------- |\\\\  \n     /||              || \\\\ \n    / ||milkfat 1%    ||  \\\\\n * *  ||______________|| / \n*     |________________|/  \n*          ||    ||        \n *         ~~    ~~        \n  *                        \n   ----------------------  \n  / - - - - - - - - --- /  \n / - - - - - - - - --- /   \n----------------------     \n"
+    },
+    "Wendy Wellesley Cow": {
+      "prefix": "moo::Wendy Wellesley Cow",
+      "body": "\n                   (oooo)  \n                 oo( -0 )oo\n     / ------------  \\\\/    \n    /  |          |        \n   /   |  ----\\\\_/ |        \n> <    |||      |||        \n       |||      |||        \n        ~~       ~~        \n"
+    },
+    "Breacowt!": {
+      "prefix": "moo::Breacowt!",
+      "body": "\n       /|             \n      / |             \n     /  |             \n     |/ |             \n      \\\\ |             \n  /|  //          (__)\n / /\\\\//           (oo)\n| |  /     /-------\\\\/ \n|   /     / |     ||  \n|  /     *  ||----||  \n| /         ^^    ^^  \n|/          breacowt! \n"
+    },
+    "Saddam moo-sein": {
+      "prefix": "moo::Saddam moo-sein",
+      "body": "\n _____                 *                       \n(_____)               /                        \n( OO )_____________  /                         \n(/~~\\\\)  #########  \\\\/          |\\\\------------\\\\ \n \\\\O_/    * * * *   |= = = = = =|-   SCUD      )\n   |    #########  |           |/------------/ \n   |  |__________| |                           \n   || |         || |                           \n   || |         || |                           \n   ~~~~         ~~~~                           \n"
+    },
+    "Cow-mobile": {
+      "prefix": "moo::Cow-mobile",
+      "body": "\n                                  @               \n               (__)    (__) _____/                \n            /| (oo) _  (oo)/----/_____    *       \n  _o\\\\______/_|\\\\_\\\\/_/_|__\\\\/|____|//////== *- *  * -\n /_________   \\\\   00 |   00 |       /== -* * -    \n[_____/^^\\\\_____\\\\_____|_____/^^\\\\_____]     *- * -  \n      \\\\__/                 \\\\__/                   \n"
+    },
+    "Don King cow": {
+      "prefix": "moo::Don King cow",
+      "body": "\n        (())\n        (oo)\n  /------\\\\/ \n /|      |  \n* ||----||  \n  ^^    ^^  \n"
+    },
+    "Don King cow after getting electric shock": {
+      "prefix": "moo::Don King cow after getting electric shock",
+      "body": "\n        (())\n            \n        (OO)\n  /------\\\\/ \n /|      |  \n* ||----||  \n  ^^    ^^  \n"
+    },
+    "Buckwheat cow (Otay? Otay!)": {
+      "prefix": "moo::Buckwheat cow (Otay? Otay!)",
+      "body": "\n         ||||\n         (oo)\n   /------\\\\/ \n  /|      |  \n * ||----||  \n   ^^    ^^  \n             \n"
+    },
+    "\"Conehead\" cow": {
+      "prefix": "moo::\"Conehead\" cow",
+      "body": "\n         /\\\\ \n        /  \\\\\n        (oo)\n  /------\\\\/ \n /|      |  \n* ||----||  \n  ^^    ^^  \n"
+    },
+    "Anti-war cow": {
+      "prefix": "moo::Anti-war cow",
+      "body": "\n        (__)\n        (oo)\n  /-ooo--\\\\/ \n /|o | o |  \n* ||o^o ||  \n  ^^    ^^  \n"
+    },
+    "Sinead O'Connor Cow": {
+      "prefix": "moo::Sinead O'Connor Cow",
+      "body": "\n         __ \n        (oo)\n  /------\\\\/ \n /|      |  \n* ||----||  \n  ^^    ^^  \n"
+    },
+    "Ghost-cow": {
+      "prefix": "moo::Ghost-cow",
+      "body": "\n     o o          \n                  \n      O    Moo!!!!\n"
+    },
+    "Sleeping ghost-cow": {
+      "prefix": "moo::Sleeping ghost-cow",
+      "body": "\n      - -      \n               \n               \n               \n"
+    },
+    "Cow-nty Police Officer": {
+      "prefix": "moo::Cow-nty Police Officer",
+      "body": "\n              [___]\n              (o o)\n  /------------\\\\-/ \n / |    ||^    |V  \n|  |   <**>    |   \n*  -----/\\\\------   \n   ||  O  O   ||   \n   ||         ||   \n   ||         ||   \n   oo         oo   \n"
+    },
+    "Cow-nty Police Car": {
+      "prefix": "moo::Cow-nty Police Car",
+      "body": "\n        ___        \n   ____|___|____   \n  /        [__] \\\\  \n /         (oo)  \\\\ \n/          |\\\\/|   \\\\\n|-----------------|\n|    Cow-Price    |\n|_________________|\n\\\\_________________/\n|  |           |  |\n|__|           |__|\n"
+    },
+    "Silly cow (his father was a camel)": {
+      "prefix": "moo::Silly cow (his father was a camel)",
+      "body": "\n         (__)\n    /\\\\/\\\\_(oo)\n  //      == \n / | /\\\\/\\\\||  \n*  ||    ||  \n   ^^    ^^  \n"
+    },
+    "Sillycow-valley": {
+      "prefix": "moo::Sillycow-valley",
+      "body": "\n\\\\                              /\n \\\\                            / \n  \\\\              (__)        /  \n   \\\\        /\\\\/\\\\_(oo)       /   \n    \\\\     //      ==       /    \n     \\\\   / | /\\\\/\\\\||       /     \n      \\\\ *  ||    ||      /      \n       \\\\___^^____^^_____/       \n"
+    },
+    "beecows": {
+      "prefix": "moo::beecows",
+      "body": "\n    ___                 __  __    \n   (( /\\\\   (__)        ( /\\\\/ \\\\(__)\n    \\\\\\\\\\\\ /\\\\  (oo)         \\\\ /\\\\\\\\\\\\/(oo)\n ,----\\\\ /\\\\--\\\\/      ,----\\\\ /\\\\--\\\\/ \n( ) ) ) // ||      ( ) ) ) // ||  \n `-----//--||       `-----//--||  \n      ^^   ^^            ^^   ^^  \n"
+    },
+    "Cownan the barbarian": {
+      "prefix": "moo::Cownan the barbarian",
+      "body": "\n                   _\n         (__)     //\n        _(oo)    // \n  /----/ \\\\\\\\\\\\/    //  \n / ||--  (  ) ====  \n*  ||  \\\\_(  ) //    \n   ^^    ^  ^       \n"
+    },
+    "sliced cow": {
+      "prefix": "moo::sliced cow",
+      "body": "\n         (__)    \n             (oo)\n  /-------\\\\/     \n     / |     ||  \n*  ||----||      \n       ^^    ^^  \n"
+    },
+    "keyboard-cower": {
+      "prefix": "moo::keyboard-cower",
+      "body": "\n                   (__)\n                   (oo)\n  /-----------------\\\\/ \n / | /qwertyuiop   \\\\|| \n*  ||  asdfghjl;    || \n   ||   zxcvbnm,./  || \n   ^^               ^^ \n"
+    },
+    "high cow": {
+      "prefix": "moo::high cow",
+      "body": "\n          (  )\n          (oo)\n  /--------\\\\/ \n / ||      || \n*  ||------|| \n   ||      || \n   ||      || \n   ||      || \n   ^^      ^^ \n"
+    },
+    "very high cow": {
+      "prefix": "moo::very high cow",
+      "body": "\n          (  )\n          (oo)\n  /--------\\\\/ \n / ||      || \n*  ||------|| \n   ||      || \n   ||      || \n   ||      || \n   ||      || \n   ||      || \n   ||      || \n   ||      || \n   ||      || \n   ||      || \n   ^^      ^^ \n"
+    },
+    "broken very high cow": {
+      "prefix": "moo::broken very high cow",
+      "body": "\n |       |     |       | \n||      ||    ||      || \n||      ||    ||      || \n||      || *  ||------|| \n||      ||  \\\\ ||      || \n||      ||   \\\\--------/\\\\ \n||      ||           (oo)\n^^      ^^           (  )\n"
+    },
+    "cow san": {
+      "prefix": "moo::cow san",
+      "body": "\n         (__)\n         (\\\\/)\n  /-------\\\\/ \n / |     ||  \n*  ||    ||  \n             \n"
+    },
+    "Ge-cow-logist ": {
+      "prefix": "moo::Ge-cow-logist ",
+      "body": "\n            __               \n           (__)              \n           (oo)              \n    /-------\\\\/____)          \n  / |______ |     |          \n    ||     ||      __        \n____||_____||_____/   _______\n                             \n"
+    },
+    "Cownt Dracula": {
+      "prefix": "moo::Cownt Dracula",
+      "body": "\n     (__)     \n     (oo)     \n    < vv >    \n    /    \\\\    \n   /|    |\\\\   \n  / |(  )| \\\\  \n /  ||\"\"||\\\\ \\\\ \n/___||__||_*_\\\\\n    ~~  ~~    \n"
+    },
+    "Cow on a hot tin roof": {
+      "prefix": "moo::Cow on a hot tin roof",
+      "body": "\n                  (__)       \n        *       ` (OO)'      \n         \\\\_/-------\\\\/ `      \n           ||     ||_.  `    \n        %_/ ~-----\\\\          \n                   ~         \n                             \n ~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n// // // / /  | \\\\\\\\\\\\  \\\\ \\\\   \\\\\\\\\\\\\\\\\\\\\n"
+    },
+    "A 'cow'ntant": {
+      "prefix": "moo::A 'cow'ntant",
+      "body": "\n      (  )        \n      (00)   //   \n   ___ \\\\/___//    \n  /---\\\\_/---\\\\     \n------------------\n  l           l   \n  l___________l   \n  l   ll ll   l   \n  l   v   v   l   \n  -           -   \n"
+    },
+    "Cow from Velke Popovice Brewery": {
+      "prefix": "moo::Cow from Velke Popovice Brewery",
+      "body": "\n           (__)   \n           oo )   \n          _!_/_   \n!--!-\\\\___/    !\\\\  \n!__!     !    !  \\\\\n          \\\\___/   \n         /  W \\\\   \n         !    !   \n         !    !   \n"
+    },
+    "David and Cowliath": {
+      "prefix": "moo::David and Cowliath",
+      "body": "\n                  \\\\ ,_________________./ /\n                 -/.__________________  -\n                      \\\\    (__)    /   \\\\ \n                        \\\\  (oo)  /       \n                          \\\\.\\\\/./         \n                           |  |          \n                   *       |  |          \n                /          |  |          \n       o    / /            /  \\\\'         \n      /|\\\\/'               |    \\\\         \n______/_\\\\_________________|______\\\\ _____ \n                          ^      ^       \n"
+    },
+    "Pompano Beach or bust!": {
+      "prefix": "moo::Pompano Beach or bust!",
+      "body": "\n.                                                     \n    .  .                                              \n    .  .   .    __                      __            \n          .     ||______________________||            \n       .    .   ||  __________________  ||            \n              / || |           (__)   | ||            \n        .   . / || |           (oo)   | ||            \n            |  -|| |           _\\\\/_   | ||            \n        .   . \\\\ || |=---------/(())\\\\-\\\\| ||            \n            (\\\\  |\\\\-----------------------\\\\            \n        .    (\\\\ || \\\\_______________________\\\\          \n               \\\\||  |                       |         \n         .      \\\\|  | (O) |-----------| (O) | .       \n                 \\\\  |     |-----------|     |       . \n          .       \\\\ |       PETERBILT       |  .      \n                   \\\\|                       |         \n            .      (=========================)        \n                    |_||_|             |_||_|         \n               .                                 \\\\    \n                  .                                  \\\\\n"
+    },
+    "82nd Cowborne Cowtrooper": {
+      "prefix": "moo::82nd Cowborne Cowtrooper",
+      "body": "\n                                               ^^^         \n                                             ^^^^^^^       \n++++++++++ ************************        ^^^^^^^^^^^     \n++++++++++ ************************      ^^^^^^^^^^^^^^^   \n++++++++++ ************************     ^^^^^^^^^^^^^^^^^  \n++++++++++ ************************    ^^^^^^^^^^^^^^^^^^^ \n++++++++++ ************************   ^^^^^^^^^^^^^^^^^^^^^\n***********************************    \\\\                  /\n***********************************     \\\\                / \n***********************************      \\\\              /  \n***********************************       \\\\            /   \n                                           \\\\   ^(__)  /    \n                                            \\\\ / (@@) /     \n                                             \\\\|__\\\\/__      \n                                                |  | |     \n                                                |  | |     \n                                                |__|-^-    \n                                               /   \\\\   \\\\__*\n                                               |    |      \n                                               ^    ^      \n"
+    },
+    "Former Panamanian General \"I'm not a Mule\" Manny Cowiega": {
+      "prefix": "moo::Former Panamanian General \"I'm not a Mule\" Manny Cowiega",
+      "body": "\n-----------------------------------------------\n|           U. S. Federal Prison              |\n|---------------------------------------------|\n|  |  |  |  |  |  |      |  |  |  |  |  |  |  |\n|  |  |  |  |  |^ | (__) | ^|  |  |  |  |  |  |\n|  |  |  |  |  | \\\\| (00) |/ |  |  |  |  |  |  |\n|  |  |  |  |  |  \\\\__\\\\/__/  |  |  |  |  |  |  |\n|  |  |  |  |  |  | |  | |  |  |  |  |  |  |  |\n|  |  |  |  |  |  | |  |-|  |  |  |  |  |  |  |\n|  |  |  |  |  |  | /  \\\\ \\\\_ |  |  |  |  |  |  |\n|  |  |  |  |  |  |/    \\\\| \\\\*  |  |  |  |  |  |\n|  |  |  |  |  |  ^      ^  |  |  |  |  |  |  |\n-----------------------------------------------\n"
+    },
+    "Former despot Romanians Nicolae and Madame Cow-cescu": {
+      "prefix": "moo::Former despot Romanians Nicolae and Madame Cow-cescu",
+      "body": "\n---------------------------------------------------------\n---.---.---.-------.---|.--            ---------|---|----\n--.-.---.----                 (__)        -----.---.---|-\n-|---|-              __)      (++)___       -----.---|---\n----|       ^\\\\  ^\\\\  (xx)    ___\\\\//---^       -----.---|--\n-----  |      \\\\____\\\\_\\\\/   /    \\\\    \\\\_____        ---.---\n========= -    \\\\_____/\\\\  ^   .  \\\\_/____  ^          -====\n. -     -      /        \\\\        '     ^          .   - .\n   \\\\          /       .  ^                     -       \\\\ \n    `        ^                 `                `       `\n"
+    },
+    "M1 Abrams Cow Commander": {
+      "prefix": "moo::M1 Abrams Cow Commander",
+      "body": "\n                          (__)                            \n                          (OO)         __                 \n                           \\\\/         |__|                \n                         //  \\\\        |                   \n                        // \\\\   \\\\      |                   \n                  ^^    \\\\// \\\\   |                         \n                        /-------------\\\\                   \n-----------------------/    Panama     \\\\                  \n----------------------/       or        \\\\                 \n                     /       Bust!       \\\\                \n       _____________/---------------------\\\\_____________  \n      /                                                 \\\\ \n     /                                                   \\\\\n     \\\\                                                   /\n      \\\\_________________________________________________/ \n"
+    },
+    "The Acowdemy Award": {
+      "prefix": "moo::The Acowdemy Award",
+      "body": "\n  (__)         \n  (OO)         \n   \\\\/          \n  //  \\\\        \n // \\\\   \\\\      \n^^    \\\\// \\\\    \n     //     \\\\  \n  --^^------  *\n   \\\\ ____ /    \n    ||||||     \n    ||||||     \n    ||||||     \n    ||||||     \n    ||||||     \n    ||||||     \n __||||||||__  \n | .,....,. |  \n | ...,.,.. |  \n ------------  \n"
+    },
+    "Cow Bell (or the Liberty Cow Bell)": {
+      "prefix": "moo::Cow Bell (or the Liberty Cow Bell)",
+      "body": "\n          *          \n          |          \n          |          \n        -----        \n       /     \\\\       \n      /       \\\\      \n      |       |      \n     /         \\\\     \n    /      /    \\\\    \n   |       \\\\     |   \n  /         \\\\     \\\\  \n |          /      | \n/___________\\\\_______\\\\\n     /               \n  (_/)               \n  (@@)               \n   \\\\/                \n"
+    },
+    "Cownterfeit": {
+      "prefix": "moo::Cownterfeit",
+      "body": "\n ____________________________________________________________________ \n|      ________________________________________________________      |\n|  10 )   T H E  U N I T E D  S T A T E S  O F  A M E R I C A  ( 10  |\n|   /        ...........         ____                            \\\\   |\n|  |                           /      \\\\         A10806726C        |  |\n|  |      1      (A)          |  (__)  |    ___ __   __    1      |  |\n|  |                          |  (oo)  |     | |_  |\\\\ |           |  |\n|  |         A10806726C       |  _\\\\/_  |     | |__ | \\\\|           |  |\n|  |      1  ..........        \\\\//;;/\\\\/      ...........   1      |  |\n|   \\\\        .........     _______________     ........          /   |\n|  10 )___________________/  TEN DOLLARS  \\\\____________________( 10  |\n|______________________________________Abortion Rally calls__________|\n"
+    },
+    "The CALVelry COWard": {
+      "prefix": "moo::The CALVelry COWard",
+      "body": "\n >>>---->                                      *___                   ______   \n                                                   \\\\                __|_**_|__ \n       >>>---->                                     \\\\                | . . |   \n                                                     \\\\ _______________\\\\   /    \n                                            *  (     |    | US  CALV|  \\\\o/     \n                   >>>---->                          / /\\\\ |_________|     \\\\-- |\n                                       (            / / \\\\ \\\\__________\\\\_\\\\ ---| |\n      >>>---->                        .    (    )  / /   \\\\ \\\\          \\\\ \\\\   |*|\n                                           .      / /     \\\\ \\\\          \\\\ \\\\     \n                                          .      /* \\\\      \\\\*\\\\          \\\\*\\\\    \n"
+    },
+    "Australian view of a North American Cow": {
+      "prefix": "moo::Australian view of a North American Cow",
+      "body": "\n  vv    vv   \n  ||----||  *\n  ||     | / \n /\\\\-------/  \n(oo)         \n(~~)         \n"
+    },
+    "Abraham Lincow": {
+      "prefix": "moo::Abraham Lincow",
+      "body": "\n               ____  \n               |  |  \n             __|__|__\n               \\\\00/  \n   /-----------C\\\\/C  \n  / |          CCCC  \n /  ||_________CCCC  \n*   ||         ||    \n    nn         nn    \n"
+    },
+    "This cow belongs to \"My Favorite Martian\"": {
+      "prefix": "moo::This cow belongs to \"My Favorite Martian\"",
+      "body": "\n       .      .\n        \\\\    / \n         \\\\__/  \n         (oo)  \n  /-------\\\\/   \n / |     ||    \n*  ||----||    \n   ^^    ^^    \n"
+    },
+    "\"FLASHER\" calf": {
+      "prefix": "moo::\"FLASHER\" calf",
+      "body": "\n      (__)      \n      (oo)      \n>------\\\\/------<\n   | |    | |   \n   | `____' |   \n   `--|--|--'   \n      |  |      \n      ^  ^      \n"
+    },
+    "\"FLASHER\" steer": {
+      "prefix": "moo::\"FLASHER\" steer",
+      "body": "\n      (__)      \n      (oo)      \n>------\\\\/------<\n   | |    | |   \n   | |    | |   \n   | | || | |   \n   | `----' |   \n   `--|--|--'   \n      |  |      \n      ^  ^      \n"
+    },
+    "\"FLASHER\" bull": {
+      "prefix": "moo::\"FLASHER\" bull",
+      "body": "\n      (__)      \n      (oo)      \n>------\\\\/------<\n   | |    | |   \n   | |    | |   \n   | | || | |   \n   | `-OO-' |   \n   `--|--|--'   \n      |  |      \n      ^  ^      \n"
+    },
+    "This is a cow..": {
+      "prefix": "moo::This is a cow..",
+      "body": "\n            (_____)\n             \\\\0 0/ \n    _________(o o) \n  / |          U | \n *  | /______  _ | \n    || ||    || || \n"
+    },
+    "this is a cow on drugs": {
+      "prefix": "moo::this is a cow on drugs",
+      "body": "\n _____________ \n/             \\\\\n XXXXXXXXXXXXX \n\\\\_____________/\n"
+    },
+    "Cowborg": {
+      "prefix": "moo::Cowborg",
+      "body": "\n  .       \n   \\\\---)  \n   |o o)  \n(---\\\\o/--\\\\\n | |#| ) |\n | |#| ) |\n ^ |#| ) ~\n   //--\\\\  \n  // |  \\\\ \n ||  *   |\n ^^      ~\n"
+    },
+    "This cow is from Mars": {
+      "prefix": "moo::This cow is from Mars",
+      "body": "\n         (__)\n         ====\n  /-------\\\\/ \n / |     ||  \n*  ||-||-||  \n   ^^ ^^ ^^  \n"
+    },
+    "\"69\"": {
+      "prefix": "moo::\"69\"",
+      "body": "\n                     *\n                    / \n     (___)--------|/  \n     (o o)       ||   \n   YY ( )-||--I--||   \n   ||--I--||-( ) ^^   \n   ||     ^^(o o)--<  \n  /|--------(---)--<  \n /                    \n*                     \n"
+    },
+    "\"COW JUMPED OVER MOO_N, REVISITED\"": {
+      "prefix": "moo::\"COW JUMPED OVER MOO_N, REVISITED\"",
+      "body": "\n       *          *            *                   \n                                       *           \n*            *        (__)       *                 \n       *         _--_ ( oo)               *        \n              _-      )\\\\ '|                        \n *          /| )  _ \\\\ \\\\ ~~     *    *              \n           / \\\\ \\\\--   \\\\ \\\\                           \n        *-' // /     > >                           \n             > >                                   \n         /      /                      *           \n       / /                      *                  \n               _ _ -- _ _                          \n              /           \\\\                    *   \n   *         /      _ _ _  \\\\                       \n            |      /      \\\\|            *          \n           |     |                                 \n       *  |     |                 *               *\n          |     |                                  \n           |     |                     *           \n            |      \\\\_ _ _ /|                       \n             \\\\             /                       \n   *          \\\\ _ _     _ /                    *   \n                    ---                            \n"
+    },
+    "bum steer": {
+      "prefix": "moo::bum steer",
+      "body": "\n           (__)\n    {}\\\\    (oo)\n  /----\\\\----\\\\/ \n / |    \\\\  |\\\\  \n*  ||    >-+-\\\\ \n   ||      |   \n   ^^      ^   \n"
+    },
+    "Cowabunga!!": {
+      "prefix": "moo::Cowabunga!!",
+      "body": "\n              (__)                       \n            \\\\__\\\\/__/                     \n              l  l                       \n              l__l                       \n            / l__\\\\                       \n           <\\\\ /  /                       \n      ())))) \\\\    \\\\ ))))))               \n     /   )))) \\\\    \\\\))))))               \n    /          \\\\   /    (                \n~~~~            \\\\ /      ~~~~~~~~~~~~~~~~\n"
+    },
+    "beef jerky": {
+      "prefix": "moo::beef jerky",
+      "body": "\n          (__)   \n          (~~)  V\n  /--------/\/   |\n * |      | ----:\n>--: |----|      \n     |    |      \n     ^    ^      \n"
+    },
+    "cowsimodo": {
+      "prefix": "moo::cowsimodo",
+      "body": "\n      __  (__)\n     /  \\\\ (oo)\n  /--    --\\\\/ \n / |      ||  \n*  ||-----||  \n   ^^     ^^  \n"
+    },
+    "cownibal": {
+      "prefix": "moo::cownibal",
+      "body": "\n         (__)          \n         (oo)          \n  /-------\\\\/  {BIG MAC}\n / |     |---/         \n*  ||----|             \n   ^^    ^             \n"
+    },
+    "CUD missile launcher": {
+      "prefix": "moo::CUD missile launcher",
+      "body": "\n              _______\\\\ \n            -<|  CUD  \\\\\n           /-<|_______/\n      (__)//         / \n      (oo)/            \n       \\\\//             \n     /   |             \n __ |    |             \n*  \\\\|   _|             \n     / |               \n    /  |               \n   ^   ^               \n"
+    },
+    "New Kow on the Block": {
+      "prefix": "moo::New Kow on the Block",
+      "body": "\n         ((|)) \n         (\\\\$ \\\\$) \n  /-------\\\\_/ *\n / |     ||__<i\n*  ||----|     \n   ^^    ^     \n"
+    },
+    "where milkshakes come from": {
+      "prefix": "moo::where milkshakes come from",
+      "body": "\n           ((----))\n           ((oooo))\n    ///-----\\\\\\\\\\\\\\\\\\\\\/// \n  ///|||    |||    \n*** ||||||---|||   \n    ^^^^^^    ^^^  \n"
+    },
+    "Cowmic Strip": {
+      "prefix": "moo::Cowmic Strip",
+      "body": "\n-------------------------------------------------------------------------\n|                  ___________   |                |                     |\n|            (__) ( You know, )  |  (__) ________ |       (__)   ______ |\n|            (oo) ( Kentucky  )  |  (oo)( How do )|       (oo)  (      )|\n|     /-------\\\\/  ( cows are  )  |---\\\\/ (  they  )|       \\\\,,/  ( MOOF )|\n|    / |     ||   (bucktoothed)  |  || \\\\(  talk? )|/-------\\\\/ \\\\ (      )|\n|   *  ||----|| \\\\  /----------   |--||  \\\\/------- | |     ||   \\\\/------ |\n|      ^^    ^^  \\\\/              |  ^^            | ||----||            |\n|                                |                | ^^    ^^            |\n------------------------------------------------------------------ J.B.--\n"
+    },
+    "Moowgli": {
+      "prefix": "moo::Moowgli",
+      "body": "\n |  \\\\___________________________\n |   ___________________________\n |  /                       /   \n |  |                      /    \n |  |                     /     \n |  |            (__)    /      \n |  |            (oo)   /       \n |  |            _\\\\/_  /        \n |  |           /   ==%         \n |  |          /   ==%          \n |  |     *---<_  / /           \n |  |          / /              \n |  |         / /               \n |  |        ~ ~                \n |  |                           \n |  |                           \n |  |                           \n/    \\\\                          \n"
+    },
+    "grandcow is sitting": {
+      "prefix": "moo::grandcow is sitting",
+      "body": "\n    (__)    \n    \\\\oo/    \n    /;;\\\\    \n\\\\__|    |__/\n   |%%%%|   \n   ~    ~   \n  ~      ~  \n"
+    },
+    "Go Blue Cow": {
+      "prefix": "moo::Go Blue Cow",
+      "body": "\n.      . .  . \n.   . ..   .  \n  .  .  . (__)\n.  .  .   (oo)\n  //-------\\\\/ \n // | U M  || \n**  ||----||  \n    ^^    ^^  \n"
+    },
+    "Argyle cow about to be hit by an armored personnel carrier": {
+      "prefix": "moo::Argyle cow about to be hit by an armored personnel carrier",
+      "body": "\n        (---)                 \n(-------(----)----(   )      *\n(       (    )   )(x x)_____/ \n\\\\ OO---------OO-/   O \\\\_/\\\\/\\\\/ \nOOOOOO     OOOOOO     /     \\\\ \nOOOOOO     OOOOOO     .      .\n"
+    },
+    "Cow after biology major is finished with it": {
+      "prefix": "moo::Cow after biology major is finished with it",
+      "body": "\n (__             \n (o    ======]   \n-------   )      \n|     || __0     \n|     || () _____\n"
+    },
+    "Cow after Physics Major is finished with it": {
+      "prefix": "moo::Cow after Physics Major is finished with it",
+      "body": "\n \\\\\\\\\\\\\\\\\\\\||||/// \n= 00000000 =\n"
+    },
+    "Cow on skate-board": {
+      "prefix": "moo::Cow on skate-board",
+      "body": "\n         (__) \n         (oo) \n  /-------\\\\/  \n / |     ||   \n*  ||----||   \n __^^____^^__/\n   oo    oo   \n"
+    },
+    "Cow at running": {
+      "prefix": "moo::Cow at running",
+      "body": "\n           (__)\n           (oo)\n*____-------\\\\/ \n    //     //  \n >='/-----//   \n___^_____^^__/ \n  oo     oo    \n"
+    },
+    "Cow without skate-board": {
+      "prefix": "moo::Cow without skate-board",
+      "body": "\n               |    | \n               |    | \n           (__)|    | \n           (@@)|    | \n           |\\\\/-===< | \n           |   |    | \n           |   |    | \n         /\\\\|___===< | \n__oo____*o__.  |    | \n             `////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n"
+    },
+    "Cow within 100 miles of Chernobull": {
+      "prefix": "moo::Cow within 100 miles of Chernobull",
+      "body": "\n        [5m(__)\n[0m            \n        [5m(oo)\n[0m            \n [5m/-------\\\\/ \n[0m            \n[5m/ |     ||  \n[0m            \n5m*  ||----||  \n[0m            \n  [5m^^    ^^  \n[0m            \n"
+    },
+    "Cow within 10 miles of Chernobull": {
+      "prefix": "moo::Cow within 10 miles of Chernobull",
+      "body": "\n             [7m(__) [0m\n                        \n             [7m(oo) [0m\n                        \n      [7m/-------\\\\/ [0m \n                        \n     [7m/ |     || [0m  \n                        \n    [7m*  ||----|| [0m  \n                        \n       [7m^^    ^^ [0m  \n                        \n"
+    },
+    "Cow within 1 miles of Chernobull": {
+      "prefix": "moo::Cow within 1 miles of Chernobull",
+      "body": "\n                  [7m [5m\n                         \n                  [7m [5m\n                         \n           [7m [5m       \n                         \n          [7m [5m        \n                         \n         [7m [5m         \n                         \n            [7m [5m      \n                         \n"
+    },
+    "Cow that gives (W)hole Milk": {
+      "prefix": "moo::Cow that gives (W)hole Milk",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / |  O  ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Cow that gives Low-Fat Milk": {
+      "prefix": "moo::Cow that gives Low-Fat Milk",
+      "body": "\n        (__)\n        (oo)\n /-------\\\\/ \n* ||----||  \n  ||    ||  \n  ^^    ^^  \n"
+    },
+    "Cow that gives 2% Milk": {
+      "prefix": "moo::Cow that gives 2% Milk",
+      "body": "\n       __)\n        o)\n          \n          \n          \n          \n"
+    },
+    "Cow that gives Vitamin D Milk": {
+      "prefix": "moo::Cow that gives Vitamin D Milk",
+      "body": "\n         (__)\n         (dd)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Cow that gives Condensed Milk": {
+      "prefix": "moo::Cow that gives Condensed Milk",
+      "body": "\n     U\n /---V\n* |--|\n"
+    },
+    "Cow that gives (gave) Evaporated Milk": {
+      "prefix": "moo::Cow that gives (gave) Evaporated Milk",
+      "body": "\n.       \n    .   \n       .\n.       \n"
+    },
+    "Cow that gives Pasteurized Milk": {
+      "prefix": "moo::Cow that gives Pasteurized Milk",
+      "body": "\n         (__)\n         milk\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ^^    ^^  \n"
+    },
+    "Cows that give Homogenized Milk": {
+      "prefix": "moo::Cows that give Homogenized Milk",
+      "body": "\n       (__)     \n     __(oo)     \n    /   \\\\/  (__)\n   /   \\\\\\\\\\\\   (oo)\n  /|  /-^^---\\\\/ \n / | /|     ||  \n*  || ||----||  \n   ^^ ^^    ^^  \n"
+    },
+    "Cow that gives Cream": {
+      "prefix": "moo::Cow that gives Cream",
+      "body": "\n          (___)\n          (O O)\n  /--------\\\\ / \n / |      ||O  \n*  ||@\\\\---||   \n   ^^     ^^   \n"
+    },
+    "Full-Size Cow": {
+      "prefix": "moo::Full-Size Cow",
+      "body": "\n             (__)\n             (oo)\n  /-----------\\\\/ \n / |         ||  \n*  ||--------||  \n   OO        OO  \n"
+    },
+    "Mid-Size Cow": {
+      "prefix": "moo::Mid-Size Cow",
+      "body": "\n           (__)\n           (oo)\n  /---------\\\\/ \n / |       ||  \n*  ||------||  \n   OO      OO  \n"
+    },
+    "Compact Cow": {
+      "prefix": "moo::Compact Cow",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   OO    OO  \n"
+    },
+    "Sub-Compact Cow": {
+      "prefix": "moo::Sub-Compact Cow",
+      "body": "\n       (__)\n       (oo)\n  /-----\\\\/ \n / |   ||  \n*  ||--||  \n   OO  OO  \n"
+    },
+    "Yugo": {
+      "prefix": "moo::Yugo",
+      "body": "\n     U\n /---V\n* O--O\n"
+    },
+    "Hatch-Back": {
+      "prefix": "moo::Hatch-Back",
+      "body": "\n   __   (__)\n  /  \\\\  (oo)\n /    ---\\\\/ \n* |     ||  \n  ||----||  \n  OO    OO  \n"
+    },
+    "Station Wagon": {
+      "prefix": "moo::Station Wagon",
+      "body": "\n  ______  (__)\n /      \\\\ (oo)\n*        --\\\\/ \n|         ||  \n||--------||  \nOO        OO  \n"
+    },
+    "Pick-up Truck": {
+      "prefix": "moo::Pick-up Truck",
+      "body": "\n            (__)\n            (oo)\n /|      |---\\\\/ \n* |______|  ||  \n  ||--------||  \n  OO        OO  \n"
+    },
+    "Convertable": {
+      "prefix": "moo::Convertable",
+      "body": "\n          (__)\n       \\\\  (oo)\n  @     ---\\\\/ \n /|       ||  \n* ||------||  \n  OO      OO  \n"
+    },
+    "Roller Skate": {
+      "prefix": "moo::Roller Skate",
+      "body": "\n     U\n /---V\n* O--O\n"
+    },
+    "Beach-comber's Deluxe": {
+      "prefix": "moo::Beach-comber's Deluxe",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n  OOO    OOO \n O   O  O   O\n  OOO    OOO \n"
+    },
+    "A Low-Rider": {
+      "prefix": "moo::A Low-Rider",
+      "body": "\n  /---_  (__)\n / |   -_(oo)\n*  ||-_  |\\\\/ \n   ||  -_||  \n   OO    OO  \n"
+    },
+    "Chevy Impala with Fuzzy Dice": {
+      "prefix": "moo::Chevy Impala with Fuzzy Dice",
+      "body": "\n             (__)\n             (oo)\n  /-----------\\\\[]\n / |         |[] \n*  ||--------||  \n   OO        OO  \n"
+    },
+    "Aluminum alloy rims, fog lamps, cb radio, and custom pin-striping": {
+      "prefix": "moo::Aluminum alloy rims, fog lamps, cb radio, and custom pin-striping",
+      "body": "\n        \\\\     \n         \\\\    \n          \\\\__)\n          (oo)\n  /--------\\\\/ \n /|=======||  \n* ||------||( \n  @@      @@  \n"
+    },
+    "Yugo with rear spoiler": {
+      "prefix": "moo::Yugo with rear spoiler",
+      "body": "\n*    U\n \\\\---V\n  O--O\n"
+    },
+    "Stretch Limo": {
+      "prefix": "moo::Stretch Limo",
+      "body": "\n                                               (__)\n                                               (oo)\n  /---------------------------------------------\\\\/ \n / |                                           ||  \n*  ||------------------------------------------||  \n   OO                                          OO  \n"
+    },
+    "Yugo Limo": {
+      "prefix": "moo::Yugo Limo",
+      "body": "\n       U\n /-----V\n* O----O\n"
+    },
+    "The Eighteen Hoofer": {
+      "prefix": "moo::The Eighteen Hoofer",
+      "body": "\n     /------------------------------------------        \n    / |                                        |        \n   /  |      Upstate Milk Cooperatives         | (_____)\n  /   |                                        | ( O O )\n /    |                                        |  \\\\   / \n*     |________________________________________|___\\\\ /  \n         OO  OO                         OO  OO      O   \n"
+    },
+    "Yugo after being run over by the 18 hoofer": {
+      "prefix": "moo::Yugo after being run over by the 18 hoofer",
+      "body": "\n. .__.,,"
+    },
+    "Probably an RIT photo graduate": {
+      "prefix": "moo::Probably an RIT photo graduate",
+      "body": "\n         (__) O\n         (o[o]|\n  /-------\\\\/ v \n / |     ||_/  \n*  ||----|     \n   ^^    ^     \n"
+    },
+    "Is this one beautiful bovine, or what?": {
+      "prefix": "moo::Is this one beautiful bovine, or what?",
+      "body": "\n       *     (__) \n      /      (oo)v\n      \\\\-------\\\\/ \\\\\nv____/      /   \\\\/\n v___\\\\____v/___/  \n"
+    },
+    "Strawberry Shortcake": {
+      "prefix": "moo::Strawberry Shortcake",
+      "body": "\n        (__)\n        (oo)\n /-------\\\\/ \n* ||----||  \n  ^^    ^^  \n"
+    },
+    "Banana Split": {
+      "prefix": "moo::Banana Split",
+      "body": "\n(_   _)         \n(o   o)         \n \\\\   /-------\\\\  \n     ||     | \\\\ \n     ||----||  *\n     ^^    ^^   \n"
+    },
+    "Your team skates": {
+      "prefix": "moo::Your team skates",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / |     ||  \n*  ||----||  \n   ::    ::  \n"
+    },
+    "Like a pile of . . .": {
+      "prefix": "moo::Like a pile of . . .",
+      "body": "\n(__)        *     \n(oo)       /      \n \\\\/-------/       \n  ||     | o      \n  ||----||   ooo  \n  ^^    ^^  oooooo\n"
+    },
+    "Shift to the left": {
+      "prefix": "moo::Shift to the left",
+      "body": "\n(__)         \n(oo)         \n \\\\/-------\\\\  \n  \\\\\\\\\\\\     \\\\ \\\\ \n   \\\\\\\\\\\\----\\\\\\\\\\\\ *\n    ^^    ^^ \n"
+    },
+    "Shift to the right": {
+      "prefix": "moo::Shift to the right",
+      "body": "\n         (__)\n         (oo)\n  /-------\\\\/ \n / /     //  \n* //----//   \n ^^    ^^    \n"
+    },
+    "Stand up": {
+      "prefix": "moo::Stand up",
+      "body": "\n    (__)    \n    (oo)    \n  /--\\\\/--\\\\  \n / |    | \\\\ \n^  |    |  ^\n   /----\\\\   \n  /   \\\\  \\\\  \n ^     *  ^ \n"
+    },
+    "Sit down": {
+      "prefix": "moo::Sit down",
+      "body": "\n     (__)    \n     (oo)    \n   ---\\\\/----<\n   | \\\\-+-<   \n   |   |     \n*__|__-+-<-< \n"
+    },
+    "Fight, fight, fight!": {
+      "prefix": "moo::Fight, fight, fight!",
+      "body": "\n         (__)  *       (__)(__)         \n         (xx)   \\\\      (@@)(oo)         \n  /-------\\\\/ >---\\\\------\\\\/  \\\\/-------\\\\  \n / |     ||      |     ||>---|     || \\\\ \n*  ||----||      |-----||     |----||  *\n   ^^    ^^      ^     ^^     ^    ^^   \n" 
+    },
+    "Daft Cownt": {
+      "prefix": "moo::Daft Cownt",
+      "body": "\n        (___) (___)        \n        (===) ((_))        \n  /------\\\\-/   \\\\_/------\\\\  \n / |     ||      ||     |\\\\ \n*  ||----||      ||----|| *\n   ^^    ^^      ^^    ^^  \n"
+    },
+    "Dr. Cowdberg": {
+      "prefix": "moo::Dr. Cowdberg",
+      "body": "\n         (__)\n         (oo)\n  /------//)\\\\\n / |     ||  \n*  ||,---||  \n   ^^    ^^  \n"
+    },
+    "Nyan Cow": {
+      "prefix": "moo::Nyan Cow",
+      "body": "\n+      o     +              o    \n    *             o             +\no          +            +        \n    o  +      o    +        *    \n-._   _.-._   _.-._  (__)       o\n-._`-´_.-._`-´*------(^^)  +     \n-._`-´_.-._`-´_.|     \\\\/       + \n-._`-´_.-._`-´_.||----|| o       \n-._`-´_.-._`-´_.^^ +  ^^     o   \n   `-´ +   `-´  o                \no        o           *    o     +\n    o           +                \n+      +     o        o      +   \n"
+    }
+  }
+}
