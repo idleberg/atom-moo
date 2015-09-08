@@ -27,6 +27,10 @@ This is only a part of the many cows that popped up to become one of the early m
 1. Change directory to `~/.atom/packages/`
 2. Clone repository `git clone https://github.com/idleberg/atom-moo.git moo`
 
+## Usage
+
+All snippets are triggered using the `moo`-prefix, followed by the caption of the original ASCII cow files. For reference, these are included in the `src` folder.
+
 ## License
 
 This work is licensed under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
