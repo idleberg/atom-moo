@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/idleberg/atom-moo.git"
   },
-  "license": "MIT",
+  "license": "CC0-1.0",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
