@@ -1,7 +1,7 @@
 # ASCII Cow-pletions for Atom
 
-[![Creative Commons](https://img.shields.io/badge/license-CC0%201.0-orange.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Version](https://img.shields.io/apm/v/moo.svg?style=flat-square)](https://atom.io/packages/moo)
+[![apm](https://img.shields.io/apm/l/moo.svg?style=flat-square)](https://atom.io/packages/moo)
+[![apm](https://img.shields.io/apm/v/moo.svg?style=flat-square)](https://atom.io/packages/moo)
 [![Travis](https://img.shields.io/travis/idleberg/atom-moo.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-moo)
 [![David](https://img.shields.io/david/dev/idleberg/atom-moo.svg?style=flat-square)](https://david-dm.org/idleberg/atom-moo#info=devDependencies)
 
