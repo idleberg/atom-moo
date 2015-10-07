@@ -24,7 +24,7 @@ This is only a part of the many cows that popped up to become one of the early m
 
 ### GitHub
 
-1. Change directory to `~/.atom/packages/`
+1. Change directory `cd ~/.atom/packages/`
 2. Clone repository `git clone https://github.com/idleberg/atom-moo moo`
 
 ## Usage
