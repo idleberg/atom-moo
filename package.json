@@ -30,5 +30,8 @@
   },
   "scripts": {
     "test": "gulp lint"
+  },
+  "dependencies": {
+    "jshint": "^2.9.3"
   }
 }
