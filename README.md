@@ -3,7 +3,7 @@
 [![apm](https://img.shields.io/apm/l/moo.svg?style=flat-square)](https://atom.io/packages/moo)
 [![apm](https://img.shields.io/apm/v/moo.svg?style=flat-square)](https://atom.io/packages/moo)
 [![Travis](https://img.shields.io/travis/idleberg/atom-moo.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-moo)
-[![David](https://img.shields.io/david/dev/idleberg/atom-moo.svg?style=flat-square)](https://david-dm.org/idleberg/atom-moo#info=devDependencies)
+[![David](https://img.shields.io/david/dev/idleberg/atom-moo.svg?style=flat-square)](https://david-dm.org/idleberg/atom-moo?type=dev)
 
 Make your life more cow-plete with these fun [ASCII cow](https://web.archive.org/web/20010817055008/http://www.geocities.com/spunk1111/cows.htm) snippets for Atom. Moo!
 
