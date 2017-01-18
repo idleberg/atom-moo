@@ -22,7 +22,7 @@ This is only a part of the many cows that popped up to become one of the early m
 
 * Install package `apm install moo` (or use the GUI)
 
-### GitHub
+### Using Git
 
 1. Change directory `cd ~/.atom/packages/`
 2. Clone repository `git clone https://github.com/idleberg/atom-moo moo`
