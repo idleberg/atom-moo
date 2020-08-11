@@ -34,7 +34,3 @@ All snippets are triggered using the `moo`-prefix, followed by the caption from 
 ## License
 
 This work is licensed under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
-
-## Donate
-
-You are welcome to support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/atom-moo) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
